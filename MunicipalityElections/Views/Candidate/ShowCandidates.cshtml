@@ -1,0 +1,28 @@
+﻿@model MunicipalityElections.ViewModels.CandidateViewModel
+
+@{
+    ViewBag.Title = "ShowCandidates";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div><b>Table Format Data Displaying in ForEach</b><br /></div>
+<table class="table table-bordered table-responsive table-hover">
+    <tr>
+        <th>District </th>
+        <th>Authority </th>
+        <th>Candidate Name </th>
+        <th>Vote</th>
+        <th>Percentage</th>
+        <th>Win?</th>
+    </tr>
+    @foreach (var d in Model.CandidatesList)
+    {
+        <tr>
+            <td>@d.cdistrict</td>
+            <td>@d.cauthority</td>
+            <td>@d.cname</td>
+            <td>@d.cvoted</td>
+            <td>@d.cpercentage</td>
+            <td>@d.cwin</td>
+        </tr>
+    }
+</table> 

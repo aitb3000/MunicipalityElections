@@ -1,0 +1,22 @@
+﻿@model MunicipalityElections.ViewModels.CityViewModel
+@{
+    ViewBag.Title = "Main";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Main</h2>
+
+@using (Html.BeginForm("Search", "City"))
+{
+    <div class="form-group">
+        @Html.Label("Choose City")
+        @Html.DropDownListFor(m=> m.City.cauthority, new SelectList(Model.CityList,"cauthority","cauthority"),"Choose City", new { @class = "form-control" })
+     </div>
+     <div class="form-group">
+         @Html.Label("Year")
+         @Html.TextBoxFor( m => m.Year,DateTime.Now.Year.ToString() , new { @class = "form-control" })
+         @Html.ValidationMessageFor( m => m.Year)
+     </div>
+
+     <button type="submit" class="btn btn-primary">Show Results</button>
+}

@@ -1,0 +1,10470 @@
+[
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "אבו גוש",
+		"cname": "סלים גבר",
+		"cvoted": "1891",
+		"cpercentage": "41.69",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "אבו גוש",
+		"cname": "עיסא גבר",
+		"cvoted": "985",
+		"cpercentage": "21.72",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "אבו גוש",
+		"cname": "קאזם איבראהים",
+		"cvoted": "1660",
+		"cpercentage": "36.60",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אבו גוש",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "41.69",
+		"cwin": "סלים גבר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אבו גוש",
+		"cname": "",
+		"cvoted": "4536",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "אבו סנאן",
+		"cname": "אמל זיאדה",
+		"cvoted": "1331",
+		"cpercentage": "18.26",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "אבו סנאן",
+		"cname": "גאזי סעב",
+		"cvoted": "1377",
+		"cpercentage": "18.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "אבו סנאן",
+		"cname": "נוהאד משלב",
+		"cvoted": "2120",
+		"cpercentage": "29.09",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "אבו סנאן",
+		"cname": "פאוזי משלב",
+		"cvoted": "2460",
+		"cpercentage": "33.75",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אבו סנאן מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "33.75",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אבו סנאן סה",
+		"cname": "",
+		"cvoted": "7288",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "אבן יהודה",
+		"cname": "אברהם הררי-קולות בעד",
+		"cvoted": "5105",
+		"cpercentage": "94.57",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "אבן יהודה",
+		"cname": "אברהם הררי-קולות נגד",
+		"cvoted": "293",
+		"cpercentage": "5.43",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אבן יהודה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "94.57",
+		"cwin": "אברהם הררי-קולות בעד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אבן יהודה סה",
+		"cname": "",
+		"cvoted": "5398",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "אום אל-פחם",
+		"cname": "ח'אלד אגבאריה",
+		"cvoted": "6909",
+		"cpercentage": "26.64",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "אום אל-פחם",
+		"cname": "סמיר מחאמיד",
+		"cvoted": "9302",
+		"cpercentage": "35.86",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "אום אל-פחם",
+		"cname": "עלי ג'בארין ברכאת",
+		"cvoted": "5499",
+		"cpercentage": "21.20",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "אום אל-פחם",
+		"cname": "עלי חליל ג'בארין",
+		"cvoted": "1615",
+		"cpercentage": "6.23",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "אום אל-פחם",
+		"cname": "ראמז ג'בארין",
+		"cvoted": "1642",
+		"cpercentage": "6.33",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "אום אל-פחם",
+		"cname": "תיסיר מחאמיד",
+		"cvoted": "972",
+		"cpercentage": "3.75",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אום אל-פחם מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "35.86",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אום אל-פחם סה",
+		"cname": "",
+		"cvoted": "25939",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אופקים",
+		"cname": "איציק יצחק דנינו",
+		"cvoted": "11743",
+		"cpercentage": "81.95",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אופקים",
+		"cname": "גדעון סבגי",
+		"cvoted": "2587",
+		"cpercentage": "18.05",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אופקים מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "81.95",
+		"cwin": "איציק יצחק דנינו"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אופקים סה",
+		"cname": "",
+		"cvoted": "14330",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "אור יהודה",
+		"cname": "אפרים צבי אפי גוטמן",
+		"cvoted": "831",
+		"cpercentage": "4.75",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "אור יהודה",
+		"cname": "ליאת שוחט",
+		"cvoted": "9062",
+		"cpercentage": "51.79",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "אור יהודה",
+		"cname": "ננה חן",
+		"cvoted": "680",
+		"cpercentage": "3.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "אור יהודה",
+		"cname": "עוזי ויצמן אהרן",
+		"cvoted": "6925",
+		"cpercentage": "39.58",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אור יהודה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "51.79",
+		"cwin": "ליאת שוחט"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אור יהודה סה",
+		"cname": "",
+		"cvoted": "17498",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "אור עקיבא",
+		"cname": "ארקדי גדילוב",
+		"cvoted": "1188",
+		"cpercentage": "12.05",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "אור עקיבא",
+		"cname": "יעקב אדרי",
+		"cvoted": "4104",
+		"cpercentage": "41.64",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "אור עקיבא",
+		"cname": "נוח שמאילוב",
+		"cvoted": "628",
+		"cpercentage": "6.37",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "אור עקיבא",
+		"cname": "שמחה יוסיפוב",
+		"cvoted": "3936",
+		"cpercentage": "39.94",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אור עקיבא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "41.64",
+		"cwin": "יעקב אדרי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אור עקיבא סה",
+		"cname": "",
+		"cvoted": "9856",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אורנית",
+		"cname": "חלי נועה כדורי",
+		"cvoted": "78",
+		"cpercentage": "1.62",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אורנית",
+		"cname": "ניר ברטל )וויטלסון(",
+		"cvoted": "3185",
+		"cpercentage": "66.15",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אורנית",
+		"cname": "שלומי לנגר",
+		"cvoted": "1552",
+		"cpercentage": "32.23",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אורנית מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "66.15",
+		"cwin": "ניר ברטל )וויטלסון("
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אורנית סה",
+		"cname": "",
+		"cvoted": "4815",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "אזור",
+		"cname": "אריה פכטר",
+		"cvoted": "3995",
+		"cpercentage": "67.05",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "אזור",
+		"cname": "מזל שאול",
+		"cvoted": "1963",
+		"cpercentage": "32.95",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אזור מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "67.05",
+		"cwin": "אריה פכטר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אזור סה",
+		"cname": "",
+		"cvoted": "5958",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אילת",
+		"cname": "דובי כהן",
+		"cvoted": "4615",
+		"cpercentage": "19.42",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אילת",
+		"cname": "לימור אודיה להב",
+		"cvoted": "1494",
+		"cpercentage": "6.29",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אילת",
+		"cname": "מאיר יצחק הלוי",
+		"cvoted": "9092",
+		"cpercentage": "38.26",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אילת",
+		"cname": "סטניסלב דינקין",
+		"cvoted": "4146",
+		"cpercentage": "17.45",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אילת",
+		"cname": "ראובן רוברט סיבוני",
+		"cvoted": "606",
+		"cpercentage": "2.55",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אילת",
+		"cname": "שלמה ביטון",
+		"cvoted": "3641",
+		"cpercentage": "15.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אילת",
+		"cname": "שמעון סימון בן דוד",
+		"cvoted": "170",
+		"cpercentage": "0.72",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אילת מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "38.26",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אילת סה",
+		"cname": "",
+		"cvoted": "23764",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "אכסאל",
+		"cname": "מוחמד שלבי",
+		"cvoted": "4473",
+		"cpercentage": "52.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "אכסאל",
+		"cname": "עבד אלסלאם דראושה",
+		"cvoted": "4090",
+		"cpercentage": "47.76",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אכסאל מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "52.24",
+		"cwin": "מוחמד שלבי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אכסאל סה",
+		"cname": "",
+		"cvoted": "8563",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אל קסום",
+		"cname": "איוב אבו כף",
+		"cvoted": "14",
+		"cpercentage": "0.29",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אל קסום",
+		"cname": "ג'אזי אבוכף",
+		"cvoted": "127",
+		"cpercentage": "2.66",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אל קסום",
+		"cname": "גבר אבו כף",
+		"cvoted": "1534",
+		"cpercentage": "32.12",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אל קסום",
+		"cname": "חסאן אבו כף",
+		"cvoted": "28",
+		"cpercentage": "0.59",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אל קסום",
+		"cname": "סלאמה אל אטרש",
+		"cvoted": "1736",
+		"cpercentage": "36.35",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אל קסום",
+		"cname": "ספאלדין אל סייד",
+		"cvoted": "854",
+		"cpercentage": "17.88",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אל קסום",
+		"cname": "עבד אל בסט אלצאנע",
+		"cvoted": "483",
+		"cpercentage": "10.11",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אל קסום מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "36.35",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אל קסום סה",
+		"cname": "",
+		"cvoted": "4776",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "אל-בטוף",
+		"cname": "עאהד רחאל",
+		"cvoted": "1700",
+		"cpercentage": "36.57",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "אל-בטוף",
+		"cname": "עאטף אבו חוסיין",
+		"cvoted": "1109",
+		"cpercentage": "23.86",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "אל-בטוף",
+		"cname": "ריאד ח'טיב",
+		"cvoted": "1839",
+		"cpercentage": "39.57",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אל-בטוף מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "39.57",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אל-בטוף סה",
+		"cname": "",
+		"cvoted": "4648",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "אלונה",
+		"cname": "אברהם בבי בן יתח",
+		"cvoted": "504",
+		"cpercentage": "44.64",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "אלונה",
+		"cname": "אריה שרון",
+		"cvoted": "625",
+		"cpercentage": "55.36",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אלונה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "55.36",
+		"cwin": "אריה שרון"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אלונה סה",
+		"cname": "",
+		"cvoted": "1129",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "אליכין",
+		"cname": "משה מרדכי חי",
+		"cvoted": "549",
+		"cpercentage": "26.81",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "אליכין",
+		"cname": "עזורי שרוני",
+		"cvoted": "1499",
+		"cpercentage": "73.19",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אליכין מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "73.19",
+		"cwin": "עזורי שרוני"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אליכין סה",
+		"cname": "",
+		"cvoted": "2048",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "אלעד",
+		"cname": "ברק צברי",
+		"cvoted": "7153",
+		"cpercentage": "43.93",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "אלעד",
+		"cname": "ישראל פרוש",
+		"cvoted": "9129",
+		"cpercentage": "56.07",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אלעד מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "56.07",
+		"cwin": "ישראל פרוש"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אלעד סה",
+		"cname": "",
+		"cvoted": "16282",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אלפי מנשה",
+		"cname": "אורית )קלר( שגיא",
+		"cvoted": "1060",
+		"cpercentage": "25.95",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אלפי מנשה",
+		"cname": "שי שמעון רוזנצוויג",
+		"cvoted": "1702",
+		"cpercentage": "41.67",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אלפי מנשה",
+		"cname": "שלומית ארצי",
+		"cvoted": "820",
+		"cpercentage": "20.08",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אלפי מנשה",
+		"cname": "שלמה קטן",
+		"cvoted": "502",
+		"cpercentage": "12.29",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אלפי מנשה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "41.67",
+		"cwin": "שי שמעון רוזנצוויג"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אלפי מנשה סה",
+		"cname": "",
+		"cvoted": "4084",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אלקנה",
+		"cname": "אסף מינצר",
+		"cvoted": "1579",
+		"cpercentage": "87.38",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אלקנה",
+		"cname": "ראובן חזי",
+		"cvoted": "228",
+		"cpercentage": "12.62",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אלקנה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "87.38",
+		"cwin": "אסף מינצר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אלקנה סה",
+		"cname": "",
+		"cvoted": "1807",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "אעבלין",
+		"cname": "אליאס פרעוני",
+		"cvoted": "2287",
+		"cpercentage": "28.79",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "אעבלין",
+		"cname": "מאמון שיח'",
+		"cvoted": "3272",
+		"cpercentage": "41.18",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "אעבלין",
+		"cname": "שריף חידר",
+		"cvoted": "2386",
+		"cpercentage": "30.03",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אעבלין מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "41.18",
+		"cwin": "מאמון שיח'"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אעבלין סה",
+		"cname": "",
+		"cvoted": "7945",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אפרתה",
+		"cname": "אברהם מיכאל חדידה",
+		"cvoted": "1885",
+		"cpercentage": "43.19",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אפרתה",
+		"cname": "עודד רביבי",
+		"cvoted": "2479",
+		"cpercentage": "56.81",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אפרתה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "56.81",
+		"cwin": "עודד רביבי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אפרתה סה",
+		"cname": "",
+		"cvoted": "4364",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אריאל",
+		"cname": "אלי שבירו",
+		"cvoted": "3696",
+		"cpercentage": "40.51",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אריאל",
+		"cname": "אליהו נובוסלסקי",
+		"cvoted": "815",
+		"cpercentage": "8.93",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אריאל",
+		"cname": "חיים שמואל סגל",
+		"cvoted": "409",
+		"cpercentage": "4.48",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אריאל",
+		"cname": "יוסי חן",
+		"cvoted": "1274",
+		"cpercentage": "13.96",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "אריאל",
+		"cname": "פבל פולב",
+		"cvoted": "2930",
+		"cpercentage": "32.11",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אריאל מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "40.51",
+		"cwin": "אלי שבירו"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אריאל סה",
+		"cname": "",
+		"cvoted": "9124",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אשדוד",
+		"cname": "אלי אליאס לחמני",
+		"cvoted": "28704",
+		"cpercentage": "24.25",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אשדוד",
+		"cname": "בוריס גיטרמן",
+		"cvoted": "2487",
+		"cpercentage": "2.10",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אשדוד",
+		"cname": "הלן גלבר",
+		"cvoted": "8565",
+		"cpercentage": "7.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אשדוד",
+		"cname": "יחיאל לסרי",
+		"cvoted": "48746",
+		"cpercentage": "41.18",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אשדוד",
+		"cname": "שמעון כצנלסון",
+		"cvoted": "29861",
+		"cpercentage": "25.23",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אשדוד מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "41.18",
+		"cwin": "יחיאל לסרי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אשדוד סה",
+		"cname": "",
+		"cvoted": "118363",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אשכול",
+		"cname": "אפרים מישוב",
+		"cvoted": "2800",
+		"cpercentage": "44.23",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אשכול",
+		"cname": "גד משה ירקוני",
+		"cvoted": "3531",
+		"cpercentage": "55.77",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אשכול מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "55.77",
+		"cwin": "גד משה ירקוני"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אשכול סה",
+		"cname": "",
+		"cvoted": "6331",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אשקלון",
+		"cname": "אבי אברהם עייש",
+		"cvoted": "3835",
+		"cpercentage": "6.16",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אשקלון",
+		"cname": "איתי בכור סהר",
+		"cvoted": "4527",
+		"cpercentage": "7.27",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אשקלון",
+		"cname": "איתמר הנרי בנואה שמעוני",
+		"cvoted": "24737",
+		"cpercentage": "39.72",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אשקלון",
+		"cname": "משה אטיאס",
+		"cvoted": "4065",
+		"cpercentage": "6.53",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "אשקלון",
+		"cname": "תומר גלאם",
+		"cvoted": "25111",
+		"cpercentage": "40.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אשקלון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "40.32",
+		"cwin": "תומר גלאם"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "אשקלון סה",
+		"cname": "",
+		"cvoted": "62275",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "באר טוביה",
+		"cname": "דרור שור",
+		"cvoted": "5512",
+		"cpercentage": "49.60",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "באר טוביה",
+		"cname": "יעקב אביבי",
+		"cvoted": "5600",
+		"cpercentage": "50.40",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "באר טוביה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "50.40",
+		"cwin": "יעקב אביבי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "באר טוביה סה",
+		"cname": "",
+		"cvoted": "11112",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "באר יעקב",
+		"cname": "מוטי פרנקו",
+		"cvoted": "4297",
+		"cpercentage": "39.64",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "באר יעקב",
+		"cname": "נועם ששון",
+		"cvoted": "1288",
+		"cpercentage": "11.88",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "באר יעקב",
+		"cname": "נסים גוזלן",
+		"cvoted": "5255",
+		"cpercentage": "48.48",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "באר יעקב מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "48.48",
+		"cwin": "נסים גוזלן"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "באר יעקב סה",
+		"cname": "",
+		"cvoted": "10840",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "באר שבע",
+		"cname": "אפרים פיינבלום",
+		"cvoted": "1475",
+		"cpercentage": "1.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "באר שבע",
+		"cname": "משה ינאי",
+		"cvoted": "4670",
+		"cpercentage": "5.97",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "באר שבע",
+		"cname": "רוביק דנילוביץ'",
+		"cvoted": "72016",
+		"cpercentage": "92.14",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "באר שבע מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "92.14",
+		"cwin": "רוביק דנילוביץ'"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "באר שבע סה",
+		"cname": "",
+		"cvoted": "78161",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בוסתאן אל-מרג'",
+		"cname": "אחמד זועבי",
+		"cvoted": "1323",
+		"cpercentage": "28.08",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בוסתאן אל-מרג'",
+		"cname": "אסמאעיל זועבי",
+		"cvoted": "1508",
+		"cpercentage": "32.01",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בוסתאן אל-מרג'",
+		"cname": "עבד אלכרים זועבי",
+		"cvoted": "1880",
+		"cpercentage": "39.91",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בוסתאן אל-מרג' מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "39.91",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בוסתאן אל-מרג' סה",
+		"cname": "",
+		"cvoted": "4711",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בועיינה-נוג'ידאת",
+		"cname": "ח'אלד סלימאן",
+		"cvoted": "2194",
+		"cpercentage": "36.75",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בועיינה-נוג'ידאת",
+		"cname": "מוניר חמודה",
+		"cvoted": "3125",
+		"cpercentage": "52.35",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בועיינה-נוג'ידאת",
+		"cname": "עיסא פוקרא",
+		"cvoted": "125",
+		"cpercentage": "2.09",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בועיינה-נוג'ידאת",
+		"cname": "פתא דלאשה",
+		"cvoted": "526",
+		"cpercentage": "8.81",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בועיינה-נוג'ידאת מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "52.35",
+		"cwin": "מוניר חמודה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בועיינה-נוג'ידאת סה",
+		"cname": "",
+		"cvoted": "5970",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בוקעאתא",
+		"cname": "עבאס אבו עואד",
+		"cvoted": "רשימה יחידה ומועמד יחיד",
+		"cpercentage": "",
+		"cwin": "עבאס אבו עואד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בוקעאתא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בוקעאתא סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ביר אל-מכסור",
+		"cname": "ח'אלד חוג'יראת",
+		"cvoted": "3301",
+		"cpercentage": "57.17",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ביר אל-מכסור",
+		"cname": "יאסר חוג'יראת",
+		"cvoted": "2453",
+		"cpercentage": "42.48",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ביר אל-מכסור",
+		"cname": "פתחי חריב",
+		"cvoted": "20",
+		"cpercentage": "0.35",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ביר אל-מכסור מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "57.17",
+		"cwin": "ח'אלד חוג'יראת"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ביר אל-מכסור סה",
+		"cname": "",
+		"cvoted": "5774",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "בית אל",
+		"cname": "יעל בן ישר בן דוד",
+		"cvoted": "367",
+		"cpercentage": "15.91",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "בית אל",
+		"cname": "שמעון שי אלון",
+		"cvoted": "1940",
+		"cpercentage": "84.09",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בית אל מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "84.09",
+		"cwin": "שמעון שי אלון"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בית אל סה",
+		"cname": "",
+		"cvoted": "2307",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "בית אריה",
+		"cname": "אבי נעים",
+		"cvoted": "1276",
+		"cpercentage": "43.73",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "בית אריה",
+		"cname": "יהודה אליהו אלבוים",
+		"cvoted": "1642",
+		"cpercentage": "56.27",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בית אריה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "56.27",
+		"cwin": "יהודה אליהו אלבוים"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בית אריה סה",
+		"cname": "",
+		"cvoted": "2918",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בית ג'ן",
+		"cname": "זיד יוסף אסעד",
+		"cvoted": "2213",
+		"cpercentage": "27.61",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בית ג'ן",
+		"cname": "חמד טאפש",
+		"cvoted": "321",
+		"cpercentage": "4.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בית ג'ן",
+		"cname": "נזיה דבור",
+		"cvoted": "2068",
+		"cpercentage": "25.80",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בית ג'ן",
+		"cname": "סמיר זידאן",
+		"cvoted": "1178",
+		"cpercentage": "14.70",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בית ג'ן",
+		"cname": "ראדי נגם",
+		"cvoted": "2236",
+		"cpercentage": "27.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בית ג'ן מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "27.89",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בית ג'ן סה",
+		"cname": "",
+		"cvoted": "8016",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "בית דגן",
+		"cname": "אליהו דדון",
+		"cvoted": "2232",
+		"cpercentage": "55.40",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "בית דגן",
+		"cname": "אלפונסו אבנר ארביב",
+		"cvoted": "82",
+		"cpercentage": "2.04",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "בית דגן",
+		"cname": "רחמים תנעמי",
+		"cvoted": "1715",
+		"cpercentage": "42.57",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בית דגן מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "55.40",
+		"cwin": "אליהו דדון"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בית דגן סה",
+		"cname": "",
+		"cvoted": "4029",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בית שאן",
+		"cname": "ז'קי אלי לוי",
+		"cvoted": "6902",
+		"cpercentage": "63.26",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בית שאן",
+		"cname": "רפאל בן שטרית",
+		"cvoted": "4008",
+		"cpercentage": "36.74",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בית שאן מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "63.26",
+		"cwin": "ז'קי אלי לוי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בית שאן סה",
+		"cname": "",
+		"cvoted": "10910",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "בית שמש",
+		"cname": "גאולה עליזה בלוך",
+		"cvoted": "22464",
+		"cpercentage": "50.60",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "בית שמש",
+		"cname": "משה אבוטבול",
+		"cvoted": "21931",
+		"cpercentage": "49.40",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בית שמש מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "50.60",
+		"cwin": "גאולה עליזה בלוך"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בית שמש סה",
+		"cname": "",
+		"cvoted": "44395",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "ביתר עילית",
+		"cname": "אפרים מאיר רובינשטיין",
+		"cvoted": "14019",
+		"cpercentage": "73.69",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "ביתר עילית",
+		"cname": "חיים יהודה לייב גוטליב",
+		"cvoted": "873",
+		"cpercentage": "4.59",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "ביתר עילית",
+		"cname": "יוסף אריה חשין",
+		"cvoted": "1611",
+		"cpercentage": "8.47",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "ביתר עילית",
+		"cname": "שלום אליעזר מנחם מאניש זיידה",
+		"cvoted": "2522",
+		"cpercentage": "13.26",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ביתר עילית מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "73.69",
+		"cwin": "אפרים מאיר רובינשטיין"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ביתר עילית סה",
+		"cname": "",
+		"cvoted": "19025",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "בני ברק",
+		"cname": "אברהם קאהן",
+		"cvoted": "6193",
+		"cpercentage": "8.03",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "בני ברק",
+		"cname": "אברהם רובינשטיין",
+		"cvoted": "63530",
+		"cpercentage": "82.39",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "בני ברק",
+		"cname": "ניר אריאל",
+		"cvoted": "7383",
+		"cpercentage": "9.58",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בני ברק מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "82.39",
+		"cwin": "אברהם רובינשטיין"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בני ברק סה",
+		"cname": "",
+		"cvoted": "77106",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "בני עי",
+		"cname": "אריה גארלה",
+		"cvoted": "3144",
+		"cpercentage": "80.10",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "בני עי",
+		"cname": "ברוך אברהם",
+		"cvoted": "781",
+		"cpercentage": "19.90",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בני עי",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "80.10",
+		"cwin": "אריה גארלה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בני עי",
+		"cname": "",
+		"cvoted": "3925",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "בני שמעון",
+		"cname": "יעקב שגב כהן",
+		"cvoted": "2276",
+		"cpercentage": "46.23",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "בני שמעון",
+		"cname": "ניר זמיר",
+		"cvoted": "2647",
+		"cpercentage": "53.77",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בני שמעון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "53.77",
+		"cwin": "ניר זמיר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בני שמעון סה",
+		"cname": "",
+		"cvoted": "4923",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "בנימינה-גבעת עדה",
+		"cname": "איתי וויסברג",
+		"cvoted": "3278",
+		"cpercentage": "48.41",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "בנימינה-גבעת עדה",
+		"cname": "ברוך ארן",
+		"cvoted": "714",
+		"cpercentage": "10.54",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "בנימינה-גבעת עדה",
+		"cname": "מרדכי קירמאיר",
+		"cvoted": "2780",
+		"cpercentage": "41.05",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בנימינה-גבעת עדה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "48.41",
+		"cwin": "איתי וויסברג"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בנימינה-גבעת עדה סה",
+		"cname": "",
+		"cvoted": "6772",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "בסמ",
+		"cname": "ג'מאל אגבאריה",
+		"cvoted": "1278",
+		"cpercentage": "22.25",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "בסמ",
+		"cname": "לאית כבהה",
+		"cvoted": "255",
+		"cpercentage": "4.44",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "בסמ",
+		"cname": "מוחמד כבהא",
+		"cvoted": "679",
+		"cpercentage": "11.82",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "בסמ",
+		"cname": "ראיד כבהא",
+		"cvoted": "2689",
+		"cpercentage": "46.82",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "בסמ",
+		"cname": "מוסטפא בדראן",
+		"cvoted": "842",
+		"cpercentage": "14.66",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בסמ",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "46.82",
+		"cwin": "ראיד כבהא"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בסמ",
+		"cname": "",
+		"cvoted": "5743",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בסמת טבעון",
+		"cname": "מוחמד יאסין זובידאת",
+		"cvoted": "676",
+		"cpercentage": "15.47",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בסמת טבעון",
+		"cname": "מוניר זבידאת",
+		"cvoted": "1446",
+		"cpercentage": "33.08",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בסמת טבעון",
+		"cname": "סאמר זובידאת",
+		"cvoted": "553",
+		"cpercentage": "12.65",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בסמת טבעון",
+		"cname": "עלי סעדי",
+		"cvoted": "261",
+		"cpercentage": "5.97",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בסמת טבעון",
+		"cname": "ראיד זובידאת",
+		"cvoted": "1435",
+		"cpercentage": "32.83",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בסמת טבעון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "33.08",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בסמת טבעון סה",
+		"cname": "",
+		"cvoted": "4371",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בענה",
+		"cname": "אבראהים תיתי",
+		"cvoted": "82",
+		"cpercentage": "1.67",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בענה",
+		"cname": "אחמד בדראן",
+		"cvoted": "11",
+		"cpercentage": "0.22",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בענה",
+		"cname": "מוסטפא חסארמה",
+		"cvoted": "1267",
+		"cpercentage": "25.85",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בענה",
+		"cname": "סאלח עלי",
+		"cvoted": "118",
+		"cpercentage": "2.41",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בענה",
+		"cname": "עבאס תיתי",
+		"cvoted": "1320",
+		"cpercentage": "26.93",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "בענה",
+		"cname": "עלי ח'ליל",
+		"cvoted": "2103",
+		"cpercentage": "42.91",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בענה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "42.91",
+		"cwin": "עלי ח'ליל"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בענה סה",
+		"cname": "",
+		"cvoted": "4901",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ברנר",
+		"cname": "דורון שידלוב",
+		"cvoted": ""
+	},
+	{
+		"cdistrict": "מועמד יחיד במועצה אזורית ",
+		"cauthority": "",
+		"cname": "דורון שידלוב",
+		"cvoted": "ותיק"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ברנר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ברנר סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "בת ים",
+		"cname": "אורי אברהם בוסקילה",
+		"cvoted": "1554",
+		"cpercentage": "3.19",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "בת ים",
+		"cname": "אלי יריב",
+		"cvoted": "9566",
+		"cpercentage": "19.63",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "בת ים",
+		"cname": "יוסף בכר",
+		"cvoted": "17277",
+		"cpercentage": "35.45",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "בת ים",
+		"cname": "ירון עמוס לוי",
+		"cvoted": "3253",
+		"cpercentage": "6.67",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "בת ים",
+		"cname": "צבי רובין",
+		"cvoted": "902",
+		"cpercentage": "1.85",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "בת ים",
+		"cname": "צביקה ברוט",
+		"cvoted": "14809",
+		"cpercentage": "30.39",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "בת ים",
+		"cname": "קטי פיאסצקי מורג",
+		"cvoted": "1376",
+		"cpercentage": "2.82",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בת ים מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "35.45",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "בת ים סה",
+		"cname": "",
+		"cvoted": "48737",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "גבעת זאב",
+		"cname": "יוסף אברהמי",
+		"cvoted": "4841",
+		"cpercentage": "57.78",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "גבעת זאב",
+		"cname": "נחשון זאדא",
+		"cvoted": "425",
+		"cpercentage": "5.07",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "גבעת זאב",
+		"cname": "ענבל כרמלי",
+		"cvoted": "3113",
+		"cpercentage": "37.15",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גבעת זאב מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "57.78",
+		"cwin": "יוסף אברהמי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גבעת זאב סה",
+		"cname": "",
+		"cvoted": "8379",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גבעת שמואל",
+		"cname": "גל לנצנר",
+		"cvoted": "1075",
+		"cpercentage": "9.28",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גבעת שמואל",
+		"cname": "יוסף ברודני",
+		"cvoted": "6956",
+		"cpercentage": "60.04",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גבעת שמואל",
+		"cname": "נעמי עיני פלדמן",
+		"cvoted": "278",
+		"cpercentage": "2.40",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גבעת שמואל",
+		"cname": "רונית לב",
+		"cvoted": "3277",
+		"cpercentage": "28.28",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גבעת שמואל מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "60.04",
+		"cwin": "יוסף ברודני"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גבעת שמואל סה",
+		"cname": "",
+		"cvoted": "11586",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "גבעתיים",
+		"cname": "רן קוניק-קולות בעד",
+		"cvoted": "19380",
+		"cpercentage": "85.74",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "גבעתיים",
+		"cname": "רן קוניק-קולות נגד",
+		"cvoted": "3222",
+		"cpercentage": "14.26",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גבעתיים מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "85.74",
+		"cwin": "רן קוניק-קולות בעד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גבעתיים סה",
+		"cname": "",
+		"cvoted": "22602",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ג'דיידה-מכר",
+		"cname": "ויסאם עריד",
+		"cvoted": "3841",
+		"cpercentage": "33.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ג'דיידה-מכר",
+		"cname": "סוהיל מלחם",
+		"cvoted": "3623",
+		"cpercentage": "31.43",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ג'דיידה-מכר",
+		"cname": "עאדל כיאל",
+		"cvoted": "798",
+		"cpercentage": "6.92",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ג'דיידה-מכר",
+		"cname": "עומר כיאל",
+		"cvoted": "3265",
+		"cpercentage": "28.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ג'דיידה-מכר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "33.32",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ג'דיידה-מכר סה",
+		"cname": "",
+		"cvoted": "11527",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גדרה",
+		"cname": "יואל גמליאל",
+		"cvoted": "6563",
+		"cpercentage": "49.58",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גדרה",
+		"cname": "סהר משה רווח",
+		"cvoted": "1535",
+		"cpercentage": "11.60",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גדרה",
+		"cname": "סהר פינטו",
+		"cvoted": "5139",
+		"cpercentage": "38.82",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גדרה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "49.58",
+		"cwin": "יואל גמליאל"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גדרה סה",
+		"cname": "",
+		"cvoted": "13237",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גדרות",
+		"cname": "גילן ז'קונט",
+		"cvoted": "703",
+		"cpercentage": "24.33",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גדרות",
+		"cname": "יוסף קנדלשטיין",
+		"cvoted": "1391",
+		"cpercentage": "48.15",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גדרות",
+		"cname": "רענן לוי",
+		"cvoted": "795",
+		"cpercentage": "27.52",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גדרות מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "48.15",
+		"cwin": "יוסף קנדלשטיין"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גדרות סה",
+		"cname": "",
+		"cvoted": "2889",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "גולן",
+		"cname": "אשכול יעקב שוקרון",
+		"cvoted": "881",
+		"cpercentage": "11.16",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "גולן",
+		"cname": "גל גפני",
+		"cvoted": "1961",
+		"cpercentage": "24.84",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "גולן",
+		"cname": "חיים רוקח",
+		"cvoted": "2402",
+		"cpercentage": "30.43",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "גולן",
+		"cname": "מיכל רייקין",
+		"cvoted": "2650",
+		"cpercentage": "33.57",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גולן מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "33.57",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גולן סה",
+		"cname": "",
+		"cvoted": "7894",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ג'ולס",
+		"cname": "אמיר אבו חלא",
+		"cvoted": "464",
+		"cpercentage": "10.66",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ג'ולס",
+		"cname": "וסאם נבואני",
+		"cvoted": "1087",
+		"cpercentage": "24.97",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ג'ולס",
+		"cname": "סאמר הנו",
+		"cvoted": "589",
+		"cpercentage": "13.53",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ג'ולס",
+		"cname": "סלים טריף",
+		"cvoted": "643",
+		"cpercentage": "14.77",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ג'ולס",
+		"cname": "עאדל עאמר",
+		"cvoted": "650",
+		"cpercentage": "14.93",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ג'ולס",
+		"cname": "פהים הנו",
+		"cvoted": "233",
+		"cpercentage": "5.35",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ג'ולס",
+		"cname": "קאסם הנו",
+		"cvoted": "688",
+		"cpercentage": "15.80",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ג'ולס מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "24.97",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ג'ולס סה",
+		"cname": "",
+		"cvoted": "4354",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "גוש עציון",
+		"cname": "ירון רוזנטל",
+		"cvoted": "2974",
+		"cpercentage": "31.71",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "גוש עציון",
+		"cname": "משה יוסף סוויל",
+		"cvoted": "3195",
+		"cpercentage": "34.07",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "גוש עציון",
+		"cname": "שלמה נאמן",
+		"cvoted": "3209",
+		"cpercentage": "34.22",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גוש עציון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "34.22",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גוש עציון סה",
+		"cname": "",
+		"cvoted": "9378",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גזר",
+		"cname": "אורן אבלה",
+		"cvoted": "1534",
+		"cpercentage": "11.21",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גזר",
+		"cname": "יהושוע רגב",
+		"cvoted": "986",
+		"cpercentage": "7.20",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גזר",
+		"cname": "פטר ויס",
+		"cvoted": "5505",
+		"cpercentage": "40.22",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גזר",
+		"cname": "רותם ידלין",
+		"cvoted": "5662",
+		"cpercentage": "41.37",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גזר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "41.37",
+		"cwin": "רותם ידלין"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גזר סה",
+		"cname": "",
+		"cvoted": "13687",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ג'לג'וליה",
+		"cname": "דרוויש ראבי",
+		"cvoted": "2942",
+		"cpercentage": "51.29",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ג'לג'וליה",
+		"cname": "עבדול האדי ח'רוב",
+		"cvoted": "395",
+		"cpercentage": "6.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ג'לג'וליה",
+		"cname": "פאיק עודה",
+		"cvoted": "2399",
+		"cpercentage": "41.82",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ג'לג'וליה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "51.29",
+		"cwin": "דרוויש ראבי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ג'לג'וליה סה",
+		"cname": "",
+		"cvoted": "5736",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גן יבנה",
+		"cname": "אהרון דרור",
+		"cvoted": "6200",
+		"cpercentage": "55.68",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גן יבנה",
+		"cname": "חיים שוחמי",
+		"cvoted": "1697",
+		"cpercentage": "15.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גן יבנה",
+		"cname": "מרדכי יוסף",
+		"cvoted": "3238",
+		"cpercentage": "29.08",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גן יבנה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "55.68",
+		"cwin": "אהרון דרור"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גן יבנה סה",
+		"cname": "",
+		"cvoted": "11135",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גן רווה",
+		"cname": "שלמה אלמלך",
+		"cvoted": "1535",
+		"cpercentage": "50.66",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גן רווה",
+		"cname": "שלמה נתן שש",
+		"cvoted": "1337",
+		"cpercentage": "44.13",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גן רווה",
+		"cname": "תומר עזריה",
+		"cvoted": "158",
+		"cpercentage": "5.21",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גן רווה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "50.66",
+		"cwin": "שלמה אלמלך"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גן רווה סה",
+		"cname": "",
+		"cvoted": "3030",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גני תקווה",
+		"cname": "יניב שחר",
+		"cvoted": "3220",
+		"cpercentage": "35.91",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "גני תקווה",
+		"cname": "ליזי דלהריציה",
+		"cvoted": "5746",
+		"cpercentage": "64.09",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גני תקווה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "64.09",
+		"cwin": "ליזי דלהריציה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "גני תקווה סה",
+		"cname": "",
+		"cvoted": "8966",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "ג'סר א-זרקא",
+		"cname": "מוראד עמאש",
+		"cvoted": "4448",
+		"cpercentage": "59.73",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "ג'סר א-זרקא",
+		"cname": "סאמי גרבאן",
+		"cvoted": "307",
+		"cpercentage": "4.12",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "ג'סר א-זרקא",
+		"cname": "עז אל דין עמאש",
+		"cvoted": "2692",
+		"cpercentage": "36.15",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ג'סר א-זרקא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "59.73",
+		"cwin": "מוראד עמאש"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ג'סר א-זרקא סה",
+		"cname": "",
+		"cvoted": "7447",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ג'ש (גוש חלב)",
+		"cname": "אליאס אליאס",
+		"cvoted": "765",
+		"cpercentage": "39.68",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ג'ש (גוש חלב)",
+		"cname": "אליאס חנא",
+		"cvoted": "395",
+		"cpercentage": "20.49",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ג'ש (גוש חלב)",
+		"cname": "עלם עלם",
+		"cvoted": "768",
+		"cpercentage": "39.83",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ג'ש (גוש חלב) מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "39.83",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ג'ש (גוש חלב) סה",
+		"cname": "",
+		"cvoted": "1928",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "דאלית אל-כרמל",
+		"cname": "מרזוק קדור",
+		"cvoted": "336",
+		"cpercentage": "3.10",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "דאלית אל-כרמל",
+		"cname": "פרח חלבי",
+		"cvoted": "4323",
+		"cpercentage": "39.83",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "דאלית אל-כרמל",
+		"cname": "רפיק חלבי",
+		"cvoted": "6194",
+		"cpercentage": "57.07",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "דאלית אל-כרמל מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "57.07",
+		"cwin": "רפיק חלבי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "דאלית אל-כרמל סה",
+		"cname": "",
+		"cvoted": "10853",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "דבוריה",
+		"cname": "ג'אודת מסאלחה",
+		"cvoted": "898",
+		"cpercentage": "14.22",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "דבוריה",
+		"cname": "זוהיר יוספיה",
+		"cvoted": "2752",
+		"cpercentage": "43.56",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "דבוריה",
+		"cname": "מאג'ד מסאלחה",
+		"cvoted": "246",
+		"cpercentage": "3.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "דבוריה",
+		"cname": "ריפעת עזאיזה",
+		"cvoted": "2421",
+		"cpercentage": "38.33",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "דבוריה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "43.56",
+		"cwin": "זוהיר יוספיה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "דבוריה סה",
+		"cname": "",
+		"cvoted": "6317",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "דייר אל-אסד",
+		"cname": "אחמד דבאח",
+		"cvoted": "2258",
+		"cpercentage": "30.48",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "דייר אל-אסד",
+		"cname": "חוסין ח'טיב",
+		"cvoted": "1671",
+		"cpercentage": "22.55",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "דייר אל-אסד",
+		"cname": "מוחמד מוסא",
+		"cvoted": "715",
+		"cpercentage": "9.65",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "דייר אל-אסד",
+		"cname": "נימר חוסין",
+		"cvoted": "1294",
+		"cpercentage": "17.47",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "דייר אל-אסד",
+		"cname": "קאסם אסדי",
+		"cvoted": "1471",
+		"cpercentage": "19.85",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "דייר אל-אסד מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "30.48",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "דייר אל-אסד סה",
+		"cname": "",
+		"cvoted": "7409",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "דייר חנא",
+		"cname": "סעיד חוסיין",
+		"cvoted": "3395",
+		"cpercentage": "49.42",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "דייר חנא",
+		"cname": "קאסם סאלם",
+		"cvoted": "3474",
+		"cpercentage": "50.58",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "דייר חנא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "50.58",
+		"cwin": "קאסם סאלם"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "דייר חנא סה",
+		"cname": "",
+		"cvoted": "6869",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "דימונה",
+		"cname": "בנימין ביטון",
+		"cvoted": "9216",
+		"cpercentage": "51.60",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "דימונה",
+		"cname": "יצחק ג'קי שמעון אדרי",
+		"cvoted": "327",
+		"cpercentage": "1.83",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "דימונה",
+		"cname": "נסים פרץ",
+		"cvoted": "8319",
+		"cpercentage": "46.57",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "דימונה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "51.60",
+		"cwin": "בנימין ביטון"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "דימונה סה",
+		"cname": "",
+		"cvoted": "17862",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "דרום השרון",
+		"cname": "אושרת גני גונן",
+		"cvoted": "11480",
+		"cpercentage": "77.38",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "דרום השרון",
+		"cname": "דרור רופא",
+		"cvoted": "745",
+		"cpercentage": "5.02",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "דרום השרון",
+		"cname": "זאב פתאל",
+		"cvoted": "646",
+		"cpercentage": "4.35",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "דרום השרון",
+		"cname": "יצחק אזרי",
+		"cvoted": "1965",
+		"cpercentage": "13.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "דרום השרון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "77.38",
+		"cwin": "אושרת גני גונן"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "דרום השרון סה",
+		"cname": "",
+		"cvoted": "14836",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "הגלבוע",
+		"cname": "מוטי כהן",
+		"cvoted": "6889",
+		"cpercentage": "44.63",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "הגלבוע",
+		"cname": "עובד נור",
+		"cvoted": "8547",
+		"cpercentage": "55.37",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הגלבוע מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "55.37",
+		"cwin": "עובד נור"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הגלבוע סה",
+		"cname": "",
+		"cvoted": "15436",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "הגליל העליון",
+		"cname": "גד יעקב",
+		"cvoted": "1127",
+		"cpercentage": "14.44",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "הגליל העליון",
+		"cname": "גיורא זלץ",
+		"cvoted": "6677",
+		"cpercentage": "85.56",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הגליל העליון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "85.56",
+		"cwin": "גיורא זלץ"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הגליל העליון סה",
+		"cname": "",
+		"cvoted": "7804",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "הגליל התחתון",
+		"cname": "אריאל בוקר",
+		"cvoted": "835",
+		"cpercentage": "12.92",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "הגליל התחתון",
+		"cname": "אשר כהן",
+		"cvoted": "1467",
+		"cpercentage": "22.70",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "הגליל התחתון",
+		"cname": "בועז מועללם אליה",
+		"cvoted": "864",
+		"cpercentage": "13.37",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "הגליל התחתון",
+		"cname": "מושון משה גבאי",
+		"cvoted": "710",
+		"cpercentage": "10.99",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "הגליל התחתון",
+		"cname": "ניצן שלמה פלג",
+		"cvoted": "2587",
+		"cpercentage": "40.03",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הגליל התחתון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "40.03",
+		"cwin": "ניצן שלמה פלג"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הגליל התחתון סה",
+		"cname": "",
+		"cvoted": "6463",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "הוד השרון",
+		"cname": "אמיר כוכבי",
+		"cvoted": "8735",
+		"cpercentage": "29.52",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "הוד השרון",
+		"cname": "יגאל הררי",
+		"cvoted": "1371",
+		"cpercentage": "4.63",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "הוד השרון",
+		"cname": "יואב רוזן",
+		"cvoted": "1060",
+		"cpercentage": "3.58",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "הוד השרון",
+		"cname": "יפעת קריב",
+		"cvoted": "5619",
+		"cpercentage": "18.99",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "הוד השרון",
+		"cname": "כנרת אלישע-כהן",
+		"cvoted": "1830",
+		"cpercentage": "6.18",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "הוד השרון",
+		"cname": "משה חנוכה",
+		"cvoted": "2632",
+		"cpercentage": "8.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "הוד השרון",
+		"cname": "נדב דואני",
+		"cvoted": "4412",
+		"cpercentage": "14.91",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "הוד השרון",
+		"cname": "נוה יוסף גור",
+		"cvoted": "3932",
+		"cpercentage": "13.29",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הוד השרון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "29.52",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הוד השרון סה",
+		"cname": "",
+		"cvoted": "29591",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "הערבה התיכונה",
+		"cname": "אהרן דבוראי",
+		"cvoted": "129",
+		"cpercentage": "7.62",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "הערבה התיכונה",
+		"cname": "אייל בלום",
+		"cvoted": "1199",
+		"cpercentage": "70.86",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "הערבה התיכונה",
+		"cname": "ברק אומגה",
+		"cvoted": "364",
+		"cpercentage": "21.51",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הערבה התיכונה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "70.86",
+		"cwin": "אייל בלום"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הערבה התיכונה סה",
+		"cname": "",
+		"cvoted": "1692",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "הר אדר",
+		"cname": "חיים צבי מנדל שקד",
+		"cvoted": "1278",
+		"cpercentage": "54.55",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "הר אדר",
+		"cname": "חן פיליפוביץ",
+		"cvoted": "1065",
+		"cpercentage": "45.45",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הר אדר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "54.55",
+		"cwin": "חיים צבי מנדל שקד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הר אדר סה",
+		"cname": "",
+		"cvoted": "2343",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "הר חברון",
+		"cname": "יוחאי יעקב דמרי",
+		"cvoted": "1939",
+		"cpercentage": "65.55",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "הר חברון",
+		"cname": "שושנה אדר",
+		"cvoted": "1019",
+		"cpercentage": "34.45",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הר חברון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "65.55",
+		"cwin": "יוחאי יעקב דמרי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הר חברון סה",
+		"cname": "",
+		"cvoted": "2958",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "הרצליה",
+		"cname": "איל פביאן",
+		"cvoted": "3513",
+		"cpercentage": "8.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "הרצליה",
+		"cname": "מאיה כץ",
+		"cvoted": "15168",
+		"cpercentage": "35.91",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "הרצליה",
+		"cname": "מישל מורג עובדיה",
+		"cvoted": "2488",
+		"cpercentage": "5.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "הרצליה",
+		"cname": "משה פדלון",
+		"cvoted": "21075",
+		"cpercentage": "49.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הרצליה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "49.89",
+		"cwin": "משה פדלון"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "הרצליה סה",
+		"cname": "",
+		"cvoted": "42244",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "זבולון",
+		"cname": "איתמר שורקי",
+		"cvoted": "2417",
+		"cpercentage": "35.97",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "זבולון",
+		"cname": "דלית כסלו ספקטור",
+		"cvoted": "1679",
+		"cpercentage": "24.99",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "זבולון",
+		"cname": "עמוס נצר",
+		"cvoted": "2624",
+		"cpercentage": "39.05",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "זבולון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "39.05",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "זבולון סה",
+		"cname": "",
+		"cvoted": "6720",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "זכרון יעקב",
+		"cname": "אלי אבוטבול",
+		"cvoted": "5154",
+		"cpercentage": "43.30",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "זכרון יעקב",
+		"cname": "זיו דשא",
+		"cvoted": "5952",
+		"cpercentage": "50.01",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "זכרון יעקב",
+		"cname": "יצחק צח ברוך",
+		"cvoted": "796",
+		"cpercentage": "6.69",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "זכרון יעקב מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "50.01",
+		"cwin": "זיו דשא"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "זכרון יעקב סה",
+		"cname": "",
+		"cvoted": "11902",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "זמר",
+		"cname": "בלאל דקה",
+		"cvoted": "607",
+		"cpercentage": "15.19",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "זמר",
+		"cname": "דיאב גאנם",
+		"cvoted": "908",
+		"cpercentage": "22.72",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "זמר",
+		"cname": "נאיף גאנם",
+		"cvoted": "265",
+		"cpercentage": "6.63",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "זמר",
+		"cname": "רמי זידאן",
+		"cvoted": "1135",
+		"cpercentage": "28.40",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "זמר",
+		"cname": "תמים חרזאללה",
+		"cvoted": "1081",
+		"cpercentage": "27.05",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "זמר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "28.40",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "זמר סה",
+		"cname": "",
+		"cvoted": "3996",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "זרזיר",
+		"cname": "אמיר מזאריב",
+		"cvoted": "1546",
+		"cpercentage": "33.67",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "זרזיר",
+		"cname": "חסן הייב",
+		"cvoted": "1402",
+		"cpercentage": "30.54",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "זרזיר",
+		"cname": "סאלח גריפאת",
+		"cvoted": "52",
+		"cpercentage": "1.13",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "זרזיר",
+		"cname": "עאדל גריפאת",
+		"cvoted": "431",
+		"cpercentage": "9.39",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "זרזיר",
+		"cname": "עאטף גריפאת",
+		"cvoted": "1139",
+		"cpercentage": "24.81",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "זרזיר",
+		"cname": "עבד מזאריב",
+		"cvoted": "21",
+		"cpercentage": "0.46",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "זרזיר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "33.67",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "זרזיר סה",
+		"cname": "",
+		"cvoted": "4591",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "חבל אילות",
+		"cname": "חנן גינת",
+		"cvoted": "מועמד יחיד במועצה אזורית ",
+		"cpercentage": "",
+		"cwin": "חנן גינת"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חבל אילות מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חבל אילות סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "חבל יבנה",
+		"cname": "אברהם שלמה פוקס",
+		"cvoted": "1150",
+		"cpercentage": "39.90",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "חבל יבנה",
+		"cname": "משה ליבר",
+		"cvoted": "1732",
+		"cpercentage": "60.10",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חבל יבנה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "60.10",
+		"cwin": "משה ליבר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חבל יבנה סה",
+		"cname": "",
+		"cvoted": "2882",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "חבל מודיעין",
+		"cname": "רוני אזרק",
+		"cvoted": "3355",
+		"cpercentage": "30.90",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "חבל מודיעין",
+		"cname": "שמעון סוסן",
+		"cvoted": "7502",
+		"cpercentage": "69.10",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חבל מודיעין מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "69.10",
+		"cwin": "שמעון סוסן"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חבל מודיעין סה",
+		"cname": "",
+		"cvoted": "10857",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חדרה",
+		"cname": "אוהד מרחב",
+		"cvoted": "5514",
+		"cpercentage": "13.43",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חדרה",
+		"cname": "גד אריאלי",
+		"cvoted": "8823",
+		"cpercentage": "21.49",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חדרה",
+		"cname": "יניב דרי",
+		"cvoted": "7559",
+		"cpercentage": "18.41",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חדרה",
+		"cname": "יצחק צור",
+		"cvoted": "951",
+		"cpercentage": "2.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חדרה",
+		"cname": "צביקה צבי גנדלמן",
+		"cvoted": "16992",
+		"cpercentage": "41.38",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חדרה",
+		"cname": "שירלי עודד דורן",
+		"cvoted": "1226",
+		"cpercentage": "2.99",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חדרה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "41.38",
+		"cwin": "צביקה צבי גנדלמן"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חדרה סה",
+		"cname": "",
+		"cvoted": "41065",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "חולון",
+		"cname": "אילן גזית",
+		"cvoted": "1816",
+		"cpercentage": "2.49",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "חולון",
+		"cname": "מוטי ששון",
+		"cvoted": "30104",
+		"cpercentage": "41.28",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "חולון",
+		"cname": "מוריס מורן ישראל",
+		"cvoted": "9666",
+		"cpercentage": "13.26",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "חולון",
+		"cname": "מיקאל מרדכי בוזגלו",
+		"cvoted": "6999",
+		"cpercentage": "9.60",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "חולון",
+		"cname": "קרן גונן",
+		"cvoted": "2911",
+		"cpercentage": "3.99",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "חולון",
+		"cname": "שי קינן",
+		"cvoted": "21423",
+		"cpercentage": "29.38",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חולון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "41.28",
+		"cwin": "מוטי ששון"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חולון סה",
+		"cname": "",
+		"cvoted": "72919",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "חוף אשקלון",
+		"cname": "איתמר מיכאל רביבו",
+		"cvoted": "2734",
+		"cpercentage": "29.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "חוף אשקלון",
+		"cname": "דודי דוד סעדה",
+		"cvoted": "2611",
+		"cpercentage": "28.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "חוף אשקלון",
+		"cname": "יאיר שמואל פרג'ון",
+		"cvoted": "2353",
+		"cpercentage": "25.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "חוף אשקלון",
+		"cname": "יריב קלרמן",
+		"cvoted": "1626",
+		"cpercentage": "17.44",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חוף אשקלון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "29.32",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חוף אשקלון סה",
+		"cname": "",
+		"cvoted": "9324",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חוף הכרמל",
+		"cname": "אסיף איזק",
+		"cvoted": "9605",
+		"cpercentage": "75.40",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חוף הכרמל",
+		"cname": "רותם שטיינר-יוסף",
+		"cvoted": "3134",
+		"cpercentage": "24.60",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חוף הכרמל מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "75.40",
+		"cwin": "אסיף איזק"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חוף הכרמל סה",
+		"cname": "",
+		"cvoted": "12739",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "חוף השרון",
+		"cname": "אליהו ברכה",
+		"cvoted": "מועמד יחיד במועצה אזורית ",
+		"cpercentage": "",
+		"cwin": "אליהו ברכה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חוף השרון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חוף השרון סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "חורה",
+		"cname": "חאבס אלעטאונה",
+		"cvoted": "3551",
+		"cpercentage": "55.73",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "חורה",
+		"cname": "עלי אבו אל קיעאן",
+		"cvoted": "2821",
+		"cpercentage": "44.27",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חורה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "55.73",
+		"cwin": "חאבס אלעטאונה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חורה סה",
+		"cname": "",
+		"cvoted": "6372",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "חורפיש",
+		"cname": "סאלח פארס",
+		"cvoted": "1902",
+		"cpercentage": "46.57",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "חורפיש",
+		"cname": "רפיק מרעי",
+		"cvoted": "2182",
+		"cpercentage": "53.43",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חורפיש מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "53.43",
+		"cwin": "רפיק מרעי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חורפיש סה",
+		"cname": "",
+		"cvoted": "4084",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חיפה",
+		"cname": "אביהו האן",
+		"cvoted": "3787",
+		"cpercentage": "3.20",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חיפה",
+		"cname": "יונה יהב",
+		"cvoted": "43907",
+		"cpercentage": "37.12",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חיפה",
+		"cname": "ישראל יעקב סביון",
+		"cvoted": "1506",
+		"cpercentage": "1.27",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חיפה",
+		"cname": "מנדי זלצמן",
+		"cvoted": "2585",
+		"cpercentage": "2.19",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חיפה",
+		"cname": "עינת קליש-רותם",
+		"cvoted": "66486",
+		"cpercentage": "56.21",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חיפה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "56.21",
+		"cwin": "עינת קליש-רותם"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חיפה סה",
+		"cname": "",
+		"cvoted": "118271",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "חצור הגלילית",
+		"cname": "שאול כמיסה רז",
+		"cvoted": "2597",
+		"cpercentage": "48.07",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "חצור הגלילית",
+		"cname": "שמעון סויסה",
+		"cvoted": "2806",
+		"cpercentage": "51.93",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חצור הגלילית מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "51.93",
+		"cwin": "שמעון סויסה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חצור הגלילית סה",
+		"cname": "",
+		"cvoted": "5403",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חריש",
+		"cname": "אריק מויאל",
+		"cvoted": "727",
+		"cpercentage": "26.50",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חריש",
+		"cname": "גבריאל קדוש",
+		"cvoted": "331",
+		"cpercentage": "12.07",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "חריש",
+		"cname": "יצחק קשת",
+		"cvoted": "1685",
+		"cpercentage": "61.43",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חריש מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "61.43",
+		"cwin": "יצחק קשת"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "חריש סה",
+		"cname": "",
+		"cvoted": "2743",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טבריה",
+		"cname": "דודיק דוד אזולאי",
+		"cvoted": "5348",
+		"cpercentage": "24.26",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טבריה",
+		"cname": "יוסף בן דוד",
+		"cvoted": "5377",
+		"cpercentage": "24.39",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טבריה",
+		"cname": "יניב כהן",
+		"cvoted": "215",
+		"cpercentage": "0.98",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טבריה",
+		"cname": "ציון פיניאן",
+		"cvoted": "1103",
+		"cpercentage": "5.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טבריה",
+		"cname": "רון אהרון קובי",
+		"cvoted": "10006",
+		"cpercentage": "45.38",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "טבריה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "45.38",
+		"cwin": "רון אהרון קובי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "טבריה סה",
+		"cname": "",
+		"cvoted": "22049",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טובא-זנגריה",
+		"cname": "ויסאם פאיז עומר",
+		"cvoted": "1944",
+		"cpercentage": "53.17",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טובא-זנגריה",
+		"cname": "חוסין הייב",
+		"cvoted": "1712",
+		"cpercentage": "46.83",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "טובא-זנגריה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "53.17",
+		"cwin": "ויסאם פאיז עומר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "טובא-זנגריה סה",
+		"cname": "",
+		"cvoted": "3656",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טורעאן",
+		"cname": "דחלה מוחמד",
+		"cvoted": "51",
+		"cpercentage": "0.58",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טורעאן",
+		"cname": "מאזן עדוי",
+		"cvoted": "4125",
+		"cpercentage": "47.10",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טורעאן",
+		"cname": "מחמוד נסאר",
+		"cvoted": "1137",
+		"cpercentage": "12.98",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טורעאן",
+		"cname": "עימאד דחלה",
+		"cvoted": "3445",
+		"cpercentage": "39.34",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "טורעאן מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "47.10",
+		"cwin": "מאזן עדוי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "טורעאן סה",
+		"cname": "",
+		"cvoted": "8758",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "טירה",
+		"cname": "מאמון עבד אל חי",
+		"cvoted": "8198",
+		"cpercentage": "52.40",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "טירה",
+		"cname": "מוחמד מנצור",
+		"cvoted": "7301",
+		"cpercentage": "46.66",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "טירה",
+		"cname": "עומר סולטאן",
+		"cvoted": "147",
+		"cpercentage": "0.94",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "טירה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "52.40",
+		"cwin": "מאמון עבד אל חי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "טירה סה",
+		"cname": "",
+		"cvoted": "15646",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "טירת כרמל",
+		"cname": "אפרת דוד ששון",
+		"cvoted": "1632",
+		"cpercentage": "13.43",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "טירת כרמל",
+		"cname": "אריה טל",
+		"cvoted": "4319",
+		"cpercentage": "35.53",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "טירת כרמל",
+		"cname": "אריה מצליח פרג'ון",
+		"cvoted": "2166",
+		"cpercentage": "17.82",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "טירת כרמל",
+		"cname": "דוד שחר",
+		"cvoted": "684",
+		"cpercentage": "5.63",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "טירת כרמל",
+		"cname": "כפיר עובדיה",
+		"cvoted": "2904",
+		"cpercentage": "23.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "טירת כרמל",
+		"cname": "שוש בינר צמרת",
+		"cvoted": "451",
+		"cpercentage": "3.71",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "טירת כרמל מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "35.53",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "טירת כרמל סה",
+		"cname": "",
+		"cvoted": "12156",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טמרה",
+		"cname": "אחמד חג'אזי",
+		"cvoted": "3239",
+		"cpercentage": "15.87",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טמרה",
+		"cname": "מוחמד כנעאן",
+		"cvoted": "718",
+		"cpercentage": "3.52",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טמרה",
+		"cname": "מוסא אבו רומי",
+		"cvoted": "5835",
+		"cpercentage": "28.59",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טמרה",
+		"cname": "מוסטפא אבו רומי",
+		"cvoted": "3897",
+		"cpercentage": "19.10",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "טמרה",
+		"cname": "סוהייל דיאב",
+		"cvoted": "6717",
+		"cpercentage": "32.92",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "טמרה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "32.92",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "טמרה סה",
+		"cname": "",
+		"cvoted": "20406",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יאנוח-ג'ת",
+		"cname": "מועדאד סעד",
+		"cvoted": "2218",
+		"cpercentage": "51.93",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יאנוח-ג'ת",
+		"cname": "מעדא חאסבאני",
+		"cvoted": "2053",
+		"cpercentage": "48.07",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יאנוח-ג'ת מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "51.93",
+		"cwin": "מועדאד סעד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יאנוח-ג'ת סה",
+		"cname": "",
+		"cvoted": "4271",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יבנאל",
+		"cname": "אלון עמרוסי",
+		"cvoted": "85",
+		"cpercentage": "4.06",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יבנאל",
+		"cname": "ארז קריטי",
+		"cvoted": "242",
+		"cpercentage": "11.56",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יבנאל",
+		"cname": "גילעד קרמר",
+		"cvoted": "432",
+		"cpercentage": "20.64",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יבנאל",
+		"cname": "מוריס אריש",
+		"cvoted": "56",
+		"cpercentage": "2.68",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יבנאל",
+		"cname": "עמיאל אטיאס",
+		"cvoted": "32",
+		"cpercentage": "1.53",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יבנאל",
+		"cname": "רוני כהן",
+		"cvoted": "598",
+		"cpercentage": "28.57",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יבנאל",
+		"cname": "שניר דניאל אריש",
+		"cvoted": "648",
+		"cpercentage": "30.96",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יבנאל מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "30.96",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יבנאל סה",
+		"cname": "",
+		"cvoted": "2093",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "יבנה",
+		"cname": "מאיר בן הרוש",
+		"cvoted": "1878",
+		"cpercentage": "8.39",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "יבנה",
+		"cname": "מאיר שיטרית",
+		"cvoted": "4562",
+		"cpercentage": "20.37",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "יבנה",
+		"cname": "צבי גוב ארי",
+		"cvoted": "13072",
+		"cpercentage": "58.38",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "יבנה",
+		"cname": "רועי גבאי",
+		"cvoted": "2880",
+		"cpercentage": "12.86",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יבנה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "58.38",
+		"cwin": "צבי גוב ארי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יבנה סה",
+		"cname": "",
+		"cvoted": "22392",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "יהוד - נווה אפרים",
+		"cname": "אמנון דוד סעד",
+		"cvoted": "2439",
+		"cpercentage": "15.91",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "יהוד - נווה אפרים",
+		"cname": "יוסף בן דוד",
+		"cvoted": "4317",
+		"cpercentage": "28.15",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "יהוד - נווה אפרים",
+		"cname": "יעלה מיכל מקליס",
+		"cvoted": "5372",
+		"cpercentage": "35.03",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "יהוד - נווה אפרים",
+		"cname": "ליאור גלבוע",
+		"cvoted": "1765",
+		"cpercentage": "11.51",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "יהוד - נווה אפרים",
+		"cname": "מרדכי חבר",
+		"cvoted": "330",
+		"cpercentage": "2.15",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "יהוד - נווה אפרים",
+		"cname": "נתן בז'ה",
+		"cvoted": "1111",
+		"cpercentage": "7.25",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יהוד - נווה אפרים מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "35.03",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יהוד - נווה אפרים סה",
+		"cname": "",
+		"cvoted": "15334",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "יואב",
+		"cname": "מטי צרפתי הרכבי",
+		"cvoted": "מועמדת יחידה במועצה אזורית ",
+		"cpercentage": "",
+		"cwin": "מטי צרפתי הרכבי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יואב מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יואב סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יסוד המעלה",
+		"cname": "אילן אור",
+		"cvoted": "570",
+		"cpercentage": "57.17",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יסוד המעלה",
+		"cname": "עודד מזרחי",
+		"cvoted": "427",
+		"cpercentage": "42.83",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יסוד המעלה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "57.17",
+		"cwin": "אילן אור"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יסוד המעלה סה",
+		"cname": "",
+		"cvoted": "997",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יפיע",
+		"cname": "אבראהים סרחאן",
+		"cvoted": "814",
+		"cpercentage": "7.92",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יפיע",
+		"cname": "חוסיין ח'טיב",
+		"cvoted": "367",
+		"cpercentage": "3.57",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יפיע",
+		"cname": "מאהר ח'ליליה",
+		"cvoted": "4883",
+		"cpercentage": "47.52",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יפיע",
+		"cname": "עבדאללה חוסיניה",
+		"cvoted": "176",
+		"cpercentage": "1.71",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יפיע",
+		"cname": "עימראן כנאנה",
+		"cvoted": "4036",
+		"cpercentage": "39.28",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יפיע מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "47.52",
+		"cwin": "מאהר ח'ליליה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יפיע סה",
+		"cname": "",
+		"cvoted": "10276",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יקנעם עילית",
+		"cname": "סימון אלפסי",
+		"cvoted": "7226",
+		"cpercentage": "72.94",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "יקנעם עילית",
+		"cname": "רונן דוד שפירא",
+		"cvoted": "2681",
+		"cpercentage": "27.06",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יקנעם עילית מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "72.94",
+		"cwin": "סימון אלפסי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "יקנעם עילית סה",
+		"cname": "",
+		"cvoted": "9907",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "ירוחם",
+		"cname": "אילן אלמקייס",
+		"cvoted": "463",
+		"cpercentage": "8.52",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "ירוחם",
+		"cname": "טל אוחנה",
+		"cvoted": "3200",
+		"cpercentage": "58.90",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "ירוחם",
+		"cname": "נלי נילי אהרון",
+		"cvoted": "1770",
+		"cpercentage": "32.58",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ירוחם מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "58.90",
+		"cwin": "טל אוחנה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ירוחם סה",
+		"cname": "",
+		"cvoted": "5433",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "ירושלים",
+		"cname": "אבי סלמן",
+		"cvoted": "2110",
+		"cpercentage": "0.85",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "ירושלים",
+		"cname": "זאב אלקין",
+		"cvoted": "49681",
+		"cpercentage": "19.99",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "ירושלים",
+		"cname": "יוסי דייטש",
+		"cvoted": "42289",
+		"cpercentage": "17.01",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "ירושלים",
+		"cname": "משה ליאון",
+		"cvoted": "81426",
+		"cpercentage": "32.76",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "ירושלים",
+		"cname": "עופר ברקוביץ",
+		"cvoted": "73079",
+		"cpercentage": "29.40",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ירושלים מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "32.76",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ירושלים סה",
+		"cname": "",
+		"cvoted": "248585",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ירכא",
+		"cname": "והיב חביש",
+		"cvoted": "5126",
+		"cpercentage": "50.59",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ירכא",
+		"cname": "חאתם עאטללה",
+		"cvoted": "4896",
+		"cpercentage": "48.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ירכא",
+		"cname": "עאוני עטאללה",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ירכא",
+		"cname": "עלי עטאללה",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ירכא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "50.59",
+		"cwin": "והיב חביש"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ירכא סה",
+		"cname": "",
+		"cvoted": "10022",
+		"cpercentage": "98.91",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כאבול",
+		"cname": "אסעד מורשד",
+		"cvoted": "1849",
+		"cpercentage": "25.73",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כאבול",
+		"cname": "חסן בוקאעי",
+		"cvoted": "1656",
+		"cpercentage": "23.05",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כאבול",
+		"cname": "נאדר טאהא",
+		"cvoted": "1836",
+		"cpercentage": "25.55",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כאבול",
+		"cname": "סאלח ריאן",
+		"cvoted": "1844",
+		"cpercentage": "25.66",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כאבול מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "25.73",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כאבול סה",
+		"cname": "",
+		"cvoted": "7185",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כאוכב אבו אל-היג'א",
+		"cname": "זאהר סאלח",
+		"cvoted": "1509",
+		"cpercentage": "65.78",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כאוכב אבו אל-היג'א",
+		"cname": "זיאד אבו אל היג'א",
+		"cvoted": "785",
+		"cpercentage": "34.22",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כאוכב אבו אל-היג'א מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "65.78",
+		"cwin": "זאהר סאלח"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כאוכב אבו אל-היג'א סה",
+		"cname": "",
+		"cvoted": "2294",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כוכב יאיר",
+		"cname": "יובל ארד",
+		"cvoted": "3199",
+		"cpercentage": "60.42",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כוכב יאיר",
+		"cname": "שימי אליאל",
+		"cvoted": "2096",
+		"cpercentage": "39.58",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כוכב יאיר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "60.42",
+		"cwin": "יובל ארד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כוכב יאיר סה",
+		"cname": "",
+		"cvoted": "5295",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "כסיפה",
+		"cname": "סאלם אבו רביעה",
+		"cvoted": "3262",
+		"cpercentage": "43.61",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "כסיפה",
+		"cname": "עבד אל עזיז נסאסרה",
+		"cvoted": "4218",
+		"cpercentage": "56.39",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כסיפה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "56.39",
+		"cwin": "עבד אל עזיז נסאסרה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כסיפה סה",
+		"cname": "",
+		"cvoted": "7480",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כסרא-סמיע",
+		"cname": "יאסר ג'דבאן-קולות בעד",
+		"cvoted": "2588",
+		"cpercentage": "96.68",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כסרא-סמיע",
+		"cname": "יאסר ג'דבאן-קולות נגד",
+		"cvoted": "89",
+		"cpercentage": "3.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כסרא-סמיע מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "96.68",
+		"cwin": "יאסר ג'דבאן-קולות בעד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כסרא-סמיע סה",
+		"cname": "",
+		"cvoted": "2677",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כעביה-טבאש-חג'אג'רה",
+		"cname": "חסן כעביה",
+		"cvoted": "1278",
+		"cpercentage": "37.23",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כעביה-טבאש-חג'אג'רה",
+		"cname": "יאסר טבאש",
+		"cvoted": "1064",
+		"cpercentage": "30.99",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כעביה-טבאש-חג'אג'רה",
+		"cname": "ראפע חג'אג'רה",
+		"cvoted": "1091",
+		"cpercentage": "31.78",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כעביה-טבאש-חג'אג'רה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "37.23",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כעביה-טבאש-חג'אג'רה סה",
+		"cname": "",
+		"cvoted": "3433",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כפר ברא",
+		"cname": "טארק ריאן",
+		"cvoted": "1040",
+		"cpercentage": "47.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כפר ברא",
+		"cname": "מחמוד עאסי",
+		"cvoted": "1173",
+		"cpercentage": "53.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר ברא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "53.00",
+		"cwin": "מחמוד עאסי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר ברא סה",
+		"cname": "",
+		"cvoted": "2213",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר ורדים",
+		"cname": "דוד איל שמואלי",
+		"cvoted": "708",
+		"cpercentage": "25.50",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר ורדים",
+		"cname": "יורם אילון",
+		"cvoted": "446",
+		"cpercentage": "16.06",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר ורדים",
+		"cname": "עופר חלה",
+		"cvoted": "608",
+		"cpercentage": "21.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר ורדים",
+		"cname": "עופר כהן",
+		"cvoted": "719",
+		"cpercentage": "25.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר ורדים",
+		"cname": "קרן דרוקמן אדיב",
+		"cvoted": "296",
+		"cpercentage": "10.66",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר ורדים מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "25.89",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר ורדים סה",
+		"cname": "",
+		"cvoted": "2777",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר יאסיף",
+		"cname": "עוני תומא",
+		"cvoted": "3238",
+		"cpercentage": "47.46",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר יאסיף",
+		"cname": "שאדי זידאן שווירי",
+		"cvoted": "3585",
+		"cpercentage": "52.54",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר יאסיף מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "52.54",
+		"cwin": "שאדי זידאן שווירי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר יאסיף סה",
+		"cname": "",
+		"cvoted": "6823",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כפר יונה",
+		"cname": "אלברט טייב",
+		"cvoted": "1698",
+		"cpercentage": "15.60",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כפר יונה",
+		"cname": "אפרים-אפי דרעי",
+		"cvoted": "4059",
+		"cpercentage": "37.30",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כפר יונה",
+		"cname": "שושי כחלון כידור",
+		"cvoted": "5126",
+		"cpercentage": "47.10",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר יונה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "47.10",
+		"cwin": "שושי כחלון כידור"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר יונה סה",
+		"cname": "",
+		"cvoted": "10883",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר כמא",
+		"cname": "אסמעיל לבי",
+		"cvoted": "820",
+		"cpercentage": "37.67",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר כמא",
+		"cname": "זכריא נאבסו",
+		"cvoted": "1357",
+		"cpercentage": "62.33",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר כמא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "62.33",
+		"cwin": "זכריא נאבסו"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר כמא סה",
+		"cname": "",
+		"cvoted": "2177",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר כנא",
+		"cname": "ואסל טאהא",
+		"cvoted": "3000",
+		"cpercentage": "22.41",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר כנא",
+		"cname": "יוסף עואודה",
+		"cvoted": "4087",
+		"cpercentage": "30.53",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר כנא",
+		"cname": "עבד אלחכים טאהא",
+		"cvoted": "2830",
+		"cpercentage": "21.14",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר כנא",
+		"cname": "עיז אלדין אמארה",
+		"cvoted": "3205",
+		"cpercentage": "23.94",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר כנא",
+		"cname": "עירפאן ח'טיב",
+		"cvoted": "265",
+		"cpercentage": "1.98",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר כנא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "30.53",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר כנא סה",
+		"cname": "",
+		"cvoted": "13387",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר מנדא",
+		"cname": "מואנס עבד אל חלים",
+		"cvoted": "5866",
+		"cpercentage": "50.11",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר מנדא",
+		"cname": "עלי זידאן",
+		"cvoted": "5840",
+		"cpercentage": "49.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר מנדא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "50.11",
+		"cwin": "מואנס עבד אל חלים"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר מנדא סה",
+		"cname": "",
+		"cvoted": "11706",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כפר סבא",
+		"cname": "אהוד יובל לוי",
+		"cvoted": "7330",
+		"cpercentage": "15.36",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כפר סבא",
+		"cname": "הדר לביא",
+		"cvoted": "8384",
+		"cpercentage": "17.56",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כפר סבא",
+		"cname": "יוסי סדבון",
+		"cvoted": "9361",
+		"cpercentage": "19.61",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כפר סבא",
+		"cname": "מירית שקד-ברק",
+		"cvoted": "998",
+		"cpercentage": "2.09",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כפר סבא",
+		"cname": "עילאי הרסגור-הנדין",
+		"cvoted": "5359",
+		"cpercentage": "11.23",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כפר סבא",
+		"cname": "צבי צרפתי",
+		"cvoted": "3233",
+		"cpercentage": "6.77",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כפר סבא",
+		"cname": "רפי סער",
+		"cvoted": "13071",
+		"cpercentage": "27.38",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר סבא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "27.38",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר סבא סה",
+		"cname": "",
+		"cvoted": "47736",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כפר קאסם",
+		"cname": "אשרף עיסא",
+		"cvoted": "6258",
+		"cpercentage": "45.26",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "כפר קאסם",
+		"cname": "עאדל בדיר",
+		"cvoted": "7570",
+		"cpercentage": "54.74",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר קאסם מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "54.74",
+		"cwin": "עאדל בדיר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר קאסם סה",
+		"cname": "",
+		"cvoted": "13828",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "כפר קרע",
+		"cname": "אשרף עתמאן",
+		"cvoted": "252",
+		"cpercentage": "2.34",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "כפר קרע",
+		"cname": "באסם כנאעני",
+		"cvoted": "1001",
+		"cpercentage": "9.31",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "כפר קרע",
+		"cname": "זוהיר יחיא",
+		"cvoted": "829",
+		"cpercentage": "7.71",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "כפר קרע",
+		"cname": "חסאם מסאלחה",
+		"cvoted": "172",
+		"cpercentage": "1.60",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "כפר קרע",
+		"cname": "חסן עתאמנה",
+		"cvoted": "4013",
+		"cpercentage": "37.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "כפר קרע",
+		"cname": "נזיה מסארוה",
+		"cvoted": "1642",
+		"cpercentage": "15.27",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "כפר קרע",
+		"cname": "פקטוריה מדלג'",
+		"cvoted": "140",
+		"cpercentage": "1.30",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "כפר קרע",
+		"cname": "פראס בדחי",
+		"cvoted": "2704",
+		"cpercentage": "25.15",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר קרע מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "37.32",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר קרע סה",
+		"cname": "",
+		"cvoted": "10753",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "כפר שמריהו",
+		"cname": "אמירה זוכוביצקי ברוך",
+		"cvoted": "212",
+		"cpercentage": "19.43",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "כפר שמריהו",
+		"cname": "אניק חנה זבליק",
+		"cvoted": "299",
+		"cpercentage": "27.41",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "כפר שמריהו",
+		"cname": "סרג' איזידור קורשיא",
+		"cvoted": "580",
+		"cpercentage": "53.16",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר שמריהו מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "53.16",
+		"cwin": "סרג' איזידור קורשיא"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר שמריהו סה",
+		"cname": "",
+		"cvoted": "1091",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר תבור",
+		"cname": "אליהו גבאי",
+		"cvoted": "459",
+		"cpercentage": "18.21",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר תבור",
+		"cname": "חנה לוי אטלי",
+		"cvoted": "51",
+		"cpercentage": "2.02",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר תבור",
+		"cname": "עודד הלפרן",
+		"cvoted": "1209",
+		"cpercentage": "47.96",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כפר תבור",
+		"cname": "שקד גולדמן",
+		"cvoted": "802",
+		"cpercentage": "31.81",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר תבור מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "47.96",
+		"cwin": "עודד הלפרן"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כפר תבור סה",
+		"cname": "",
+		"cvoted": "2521",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כרמיאל",
+		"cname": "גיורא צ'שקין",
+		"cvoted": "1387",
+		"cpercentage": "6.16",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כרמיאל",
+		"cname": "משה קונינסקי",
+		"cvoted": "9713",
+		"cpercentage": "43.17",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כרמיאל",
+		"cname": "רותם בזרנו",
+		"cvoted": "1309",
+		"cpercentage": "5.82",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כרמיאל",
+		"cname": "רותם ינאי",
+		"cvoted": "5538",
+		"cpercentage": "24.61",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "כרמיאל",
+		"cname": "רינה גרינברג",
+		"cvoted": "4555",
+		"cpercentage": "20.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כרמיאל מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "43.17",
+		"cwin": "משה קונינסקי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "כרמיאל סה",
+		"cname": "",
+		"cvoted": "22502",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "לב השרון",
+		"cname": "אליהו אטון",
+		"cvoted": "4013",
+		"cpercentage": "35.11",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "לב השרון",
+		"cname": "עמיר ריטוב",
+		"cvoted": "4855",
+		"cpercentage": "42.48",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "לב השרון",
+		"cname": "רונן רוברטו סלטון",
+		"cvoted": "2561",
+		"cpercentage": "22.41",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "לב השרון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "42.48",
+		"cwin": "עמיר ריטוב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "לב השרון סה",
+		"cname": "",
+		"cvoted": "11429",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "להבים",
+		"cname": "יוסף ניסן",
+		"cvoted": "1136",
+		"cpercentage": "30.23",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "להבים",
+		"cname": "יניב יעקב קובי נודלמן",
+		"cvoted": "483",
+		"cpercentage": "12.85",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "להבים",
+		"cname": "כפיר יצחק מימון",
+		"cvoted": "865",
+		"cpercentage": "23.02",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "להבים",
+		"cname": "רונית דמרי עייאש",
+		"cvoted": "684",
+		"cpercentage": "18.20",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "להבים",
+		"cname": "שלמה שיטרית",
+		"cvoted": "590",
+		"cpercentage": "15.70",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "להבים מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "30.23",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "להבים סה",
+		"cname": "",
+		"cvoted": "3758",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "לוד",
+		"cname": "יאיר רביבו",
+		"cvoted": "20652",
+		"cpercentage": "72.70",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "לוד",
+		"cname": "משה בונפיל",
+		"cvoted": "3535",
+		"cpercentage": "12.44",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "לוד",
+		"cname": "פכרידין שראיעה",
+		"cvoted": "4222",
+		"cpercentage": "14.86",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "לוד מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "72.70",
+		"cwin": "יאיר רביבו"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "לוד סה",
+		"cname": "",
+		"cvoted": "28409",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "לכיש",
+		"cname": "בועז שלמה",
+		"cvoted": "2006",
+		"cpercentage": "33.45",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "לכיש",
+		"cname": "דני מורביה",
+		"cvoted": "3991",
+		"cpercentage": "66.55",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "לכיש מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "66.55",
+		"cwin": "דני מורביה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "לכיש סה",
+		"cname": "",
+		"cvoted": "5997",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "לקיה",
+		"cname": "אחמד אלאסד",
+		"cvoted": "2104",
+		"cpercentage": "35.43",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "לקיה",
+		"cname": "איברהים נסאסרה",
+		"cvoted": "1710",
+		"cpercentage": "28.80",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "לקיה",
+		"cname": "יוסף אלצאנע",
+		"cvoted": "890",
+		"cpercentage": "14.99",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "לקיה",
+		"cname": "עאטף אבו מחארב",
+		"cvoted": "1226",
+		"cpercentage": "20.65",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "לקיה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "35.43",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "לקיה סה",
+		"cname": "",
+		"cvoted": "5930",
+		"cpercentage": "99.87",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מבואות החרמון",
+		"cname": "בנימין בן מובחר",
+		"cvoted": "2508",
+		"cpercentage": "62.14",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מבואות החרמון",
+		"cname": "יוסף סטמס",
+		"cvoted": "1528",
+		"cpercentage": "37.86",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מבואות החרמון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "62.14",
+		"cwin": "בנימין בן מובחר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מבואות החרמון סה",
+		"cname": "",
+		"cvoted": "4036",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "מבשרת ציון",
+		"cname": "יורם שמעון-קולות בעד",
+		"cvoted": "9686",
+		"cpercentage": "90.02",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "מבשרת ציון",
+		"cname": "יורם שמעון-קולות נגד",
+		"cvoted": "1074",
+		"cpercentage": "9.98",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מבשרת ציון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "90.02",
+		"cwin": "יורם שמעון-קולות בעד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מבשרת ציון סה",
+		"cname": "",
+		"cvoted": "10760",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מגאר",
+		"cname": "זיאד בלעוס",
+		"cvoted": "780",
+		"cpercentage": "5.99",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מגאר",
+		"cname": "זיאד דגש",
+		"cvoted": "3802",
+		"cpercentage": "29.20",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מגאר",
+		"cname": "זידאן אבו זידאן",
+		"cvoted": "810",
+		"cpercentage": "6.22",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מגאר",
+		"cname": "פריד גאנם",
+		"cvoted": "4506",
+		"cpercentage": "34.61",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מגאר",
+		"cname": "תאיר קיזל",
+		"cvoted": "3121",
+		"cpercentage": "23.97",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מגאר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "34.61",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מגאר סה",
+		"cname": "",
+		"cvoted": "13019",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מג'ד אל-כרום",
+		"cname": "מוחמד ח'טיב",
+		"cvoted": "3318",
+		"cpercentage": "35.67",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מג'ד אל-כרום",
+		"cname": "סלים סליבי",
+		"cvoted": "5985",
+		"cpercentage": "64.33",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מג'ד אל-כרום מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "64.33",
+		"cwin": "סלים סליבי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מג'ד אל-כרום סה",
+		"cname": "",
+		"cvoted": "9303",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מגדל",
+		"cname": "יאיר חורי",
+		"cvoted": "214",
+		"cpercentage": "19.07",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מגדל",
+		"cname": "יוסף בן אודיז",
+		"cvoted": "101",
+		"cpercentage": "9.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מגדל",
+		"cname": "נתנאל אלפסי",
+		"cvoted": "558",
+		"cpercentage": "49.73",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מגדל",
+		"cname": "רוברט קנדי אמרוסי",
+		"cvoted": "249",
+		"cpercentage": "22.19",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מגדל מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "49.73",
+		"cwin": "נתנאל אלפסי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מגדל סה",
+		"cname": "",
+		"cvoted": "1122",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מגדל העמק",
+		"cname": "אליהו ברדה",
+		"cvoted": "7820",
+		"cpercentage": "56.97",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מגדל העמק",
+		"cname": "יעקב יקי בן חיים",
+		"cvoted": "5907",
+		"cpercentage": "43.03",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מגדל העמק מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "56.97",
+		"cwin": "אליהו ברדה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מגדל העמק סה",
+		"cname": "",
+		"cvoted": "13727",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מג'דל שמס",
+		"cname": "דולאן אבו סאלח",
+		"cvoted": "260",
+		"cpercentage": "95.59",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מג'דל שמס",
+		"cname": "טארק אל ספדי",
+		"cvoted": "8",
+		"cpercentage": "2.94",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מג'דל שמס",
+		"cname": "מונג'ד אבו סאלח",
+		"cvoted": "1",
+		"cpercentage": "0.37",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מג'דל שמס",
+		"cname": "ראמז אבו סאלח",
+		"cvoted": "3",
+		"cpercentage": "1.10",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מג'דל שמס מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "95.59",
+		"cwin": "דולאן אבו סאלח"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מג'דל שמס סה",
+		"cname": "",
+		"cvoted": "272",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מגידו",
+		"cname": "יצחק חולבסקי",
+		"cvoted": "3740",
+		"cpercentage": "73.25",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מגידו",
+		"cname": "שחם מיטלר גודוור",
+		"cvoted": "1366",
+		"cpercentage": "26.75",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מגידו מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "73.25",
+		"cwin": "יצחק חולבסקי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מגידו סה",
+		"cname": "",
+		"cvoted": "5106",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "מגילות ים המלח",
+		"cname": "אריה כהן",
+		"cvoted": "מועמד יחיד במועצה אזורית",
+		"cpercentage": "",
+		"cwin": "אריה כהן"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מגילות ים המלח מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מגילות ים המלח סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "מודיעין עילית",
+		"cname": "יעקב אשר גוטרמן",
+		"cvoted": "21191",
+		"cpercentage": "88.77",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "מודיעין עילית",
+		"cname": "שמואל בן-ציון אלישוב",
+		"cvoted": "2682",
+		"cpercentage": "11.23",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מודיעין עילית מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "88.77",
+		"cwin": "יעקב אשר גוטרמן"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מודיעין עילית סה",
+		"cname": "",
+		"cvoted": "23873",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "מודיעין-מכבים-רעות",
+		"cname": "חיים ביבס-קולות בעד",
+		"cvoted": "33594",
+		"cpercentage": "90.65",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "מודיעין-מכבים-רעות",
+		"cname": "חיים ביבס-קולות נגד",
+		"cvoted": "3467",
+		"cpercentage": "9.35",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מודיעין-מכבים-רעות מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "90.65",
+		"cwin": "חיים ביבס-קולות בעד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מודיעין-מכבים-רעות סה",
+		"cname": "",
+		"cvoted": "37061",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "מזכרת בתיה",
+		"cname": "גבי גבריאל גאון",
+		"cvoted": "4791",
+		"cpercentage": "63.76",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "מזכרת בתיה",
+		"cname": "מאיר דהן",
+		"cvoted": "2723",
+		"cpercentage": "36.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מזכרת בתיה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "63.76",
+		"cwin": "גבי גבריאל גאון"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מזכרת בתיה סה",
+		"cname": "",
+		"cvoted": "7514",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מזרעה",
+		"cname": "פואד עווד",
+		"cvoted": "1629",
+		"cpercentage": "65.63",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מזרעה",
+		"cname": "קאסם עווד",
+		"cvoted": "853",
+		"cpercentage": "34.37",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מזרעה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "65.63",
+		"cwin": "פואד עווד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מזרעה סה",
+		"cname": "",
+		"cvoted": "2482",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מטה אשר",
+		"cname": "משה דוידוביץ",
+		"cvoted": "8859",
+		"cpercentage": "66.07",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מטה אשר",
+		"cname": "נמרוד לנגר",
+		"cvoted": "4549",
+		"cpercentage": "33.93",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מטה אשר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "66.07",
+		"cwin": "משה דוידוביץ"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מטה אשר סה",
+		"cname": "",
+		"cvoted": "13408",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "מטה בנימין",
+		"cname": "מנחם ישראל גנץ",
+		"cvoted": "13286",
+		"cpercentage": "51.77",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "מטה בנימין",
+		"cname": "שילה אדלר",
+		"cvoted": "12378",
+		"cpercentage": "48.23",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מטה בנימין מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "51.77",
+		"cwin": "מנחם ישראל גנץ"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מטה בנימין סה",
+		"cname": "",
+		"cvoted": "25664",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "מטה יהודה",
+		"cname": "יוסי משה",
+		"cvoted": "6902",
+		"cpercentage": "27.46",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "מטה יהודה",
+		"cname": "ניב דוד ויזל",
+		"cvoted": "13636",
+		"cpercentage": "54.25",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "מטה יהודה",
+		"cname": "ערן אוחנה",
+		"cvoted": "4598",
+		"cpercentage": "18.29",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מטה יהודה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "54.25",
+		"cwin": "ניב דוד ויזל"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מטה יהודה סה",
+		"cname": "",
+		"cvoted": "25136",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מטולה",
+		"cname": "דוד אזולאי",
+		"cvoted": "653",
+		"cpercentage": "66.97",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מטולה",
+		"cname": "ליאור בז",
+		"cvoted": "233",
+		"cpercentage": "23.90",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מטולה",
+		"cname": "רוית סנדלר יפה",
+		"cvoted": "89",
+		"cpercentage": "9.13",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מטולה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "66.97",
+		"cwin": "דוד אזולאי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מטולה סה",
+		"cname": "",
+		"cvoted": "975",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "מיתר",
+		"cname": "אבנר בן גירא",
+		"cvoted": "969",
+		"cpercentage": "20.08",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "מיתר",
+		"cname": "חדווה שקד",
+		"cvoted": "995",
+		"cpercentage": "20.62",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "מיתר",
+		"cname": "שמעון מזוז",
+		"cvoted": "997",
+		"cpercentage": "20.66",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "מיתר",
+		"cname": "שמעון פרץ",
+		"cvoted": "1864",
+		"cpercentage": "38.63",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מיתר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "38.63",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מיתר סה",
+		"cname": "",
+		"cvoted": "4825",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "מנשה",
+		"cname": "אילן שדה",
+		"cvoted": "מועמד יחיד במועצה אזורית ",
+		"cpercentage": "",
+		"cwin": "אילן שדה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מנשה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מנשה סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מעיליא",
+		"cname": "חאתם עראף",
+		"cvoted": "1332",
+		"cpercentage": "61.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מעיליא",
+		"cname": "יוסף גבריס",
+		"cvoted": "843",
+		"cpercentage": "38.76",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מעיליא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "61.24",
+		"cwin": "חאתם עראף"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מעיליא סה",
+		"cname": "",
+		"cvoted": "2175",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "מעלה אדומים",
+		"cname": "בני בנימין כשריאל-קולות בעד",
+		"cvoted": "12802",
+		"cpercentage": "79.27",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "מעלה אדומים",
+		"cname": "בני בנימין כשריאל-קולות נגד",
+		"cvoted": "3347",
+		"cpercentage": "20.73",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מעלה אדומים מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "79.27",
+		"cwin": "בני בנימין כשריאל-קולות בעד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מעלה אדומים סה",
+		"cname": "",
+		"cvoted": "16149",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "מעלה אפרים",
+		"cname": "שלמה ללוש",
+		"cvoted": "רשימה יחידה ומועמד יחיד",
+		"cpercentage": "",
+		"cwin": "שלמה ללוש"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מעלה אפרים מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מעלה אפרים סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מעלה יוסף",
+		"cname": "יוסף אדוני",
+		"cvoted": "1462",
+		"cpercentage": "24.68",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מעלה יוסף",
+		"cname": "יוסף כמיסה",
+		"cvoted": "324",
+		"cpercentage": "5.47",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מעלה יוסף",
+		"cname": "צחי יצחק בן עיון",
+		"cvoted": "978",
+		"cpercentage": "16.51",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מעלה יוסף",
+		"cname": "שמעון גואטה",
+		"cvoted": "3159",
+		"cpercentage": "53.33",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מעלה יוסף מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "53.33",
+		"cwin": "שמעון גואטה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מעלה יוסף סה",
+		"cname": "",
+		"cvoted": "5923",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "מעלה עירון",
+		"cname": "מג'די אגבאריה",
+		"cvoted": "3774",
+		"cpercentage": "44.37",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "מעלה עירון",
+		"cname": "מחמוד ג'בארין",
+		"cvoted": "4732",
+		"cpercentage": "55.63",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מעלה עירון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "55.63",
+		"cwin": "מחמוד ג'בארין"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מעלה עירון סה",
+		"cname": "",
+		"cvoted": "8506",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מעלות-תרשיחא",
+		"cname": "ארקדי פומרנץ",
+		"cvoted": "3997",
+		"cpercentage": "32.26",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מעלות-תרשיחא",
+		"cname": "יוסף ברדא",
+		"cvoted": "2721",
+		"cpercentage": "21.96",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מעלות-תרשיחא",
+		"cname": "מוטי בן דוד",
+		"cvoted": "1990",
+		"cpercentage": "16.06",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מעלות-תרשיחא",
+		"cname": "שלמה בוחבוט",
+		"cvoted": "3682",
+		"cpercentage": "29.72",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מעלות-תרשיחא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "32.26",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מעלות-תרשיחא סה",
+		"cname": "",
+		"cvoted": "12390",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "מצפה רמון",
+		"cname": "גיל אטלי",
+		"cvoted": "487",
+		"cpercentage": "20.51",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "מצפה רמון",
+		"cname": "פלורה שושן",
+		"cvoted": "431",
+		"cpercentage": "18.16",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "מצפה רמון",
+		"cname": "רוני מרום",
+		"cvoted": "1456",
+		"cpercentage": "61.33",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מצפה רמון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "61.33",
+		"cwin": "רוני מרום"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מצפה רמון סה",
+		"cname": "",
+		"cvoted": "2374",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מרום הגליל",
+		"cname": "אנט יצחק",
+		"cvoted": "2688",
+		"cpercentage": "34.50",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "מרום הגליל",
+		"cname": "עמית סופר",
+		"cvoted": "5094",
+		"cpercentage": "65.37",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מרום הגליל מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "65.37",
+		"cwin": "עמית סופר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מרום הגליל סה",
+		"cname": "",
+		"cvoted": "7782",
+		"cpercentage": "99.87",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "מרחבים",
+		"cname": "שי משה חג'ג'",
+		"cvoted": "מועמד יחיד במועצה אזורית ",
+		"cpercentage": "",
+		"cwin": "שי משה חג'ג'"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מרחבים מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "מרחבים סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "משגב",
+		"cname": "דניאל מיכה עברי",
+		"cvoted": "9440",
+		"cpercentage": "66.54",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "משגב",
+		"cname": "ענבר בזק",
+		"cvoted": "4747",
+		"cpercentage": "33.46",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "משגב מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "66.54",
+		"cwin": "דניאל מיכה עברי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "משגב סה",
+		"cname": "",
+		"cvoted": "14187",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "משהד",
+		"cname": "וג'יה סלימאן",
+		"cvoted": "1507",
+		"cpercentage": "29.73",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "משהד",
+		"cname": "חוסיין סלימאן",
+		"cvoted": "906",
+		"cpercentage": "17.87",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "משהד",
+		"cname": "עבד אלפתאח חסן",
+		"cvoted": "1401",
+		"cpercentage": "27.64",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "משהד",
+		"cname": "ראיד ערפאת",
+		"cvoted": "1255",
+		"cpercentage": "24.76",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "משהד מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "29.73",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "משהד סה",
+		"cname": "",
+		"cvoted": "5069",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "נהריה",
+		"cname": "אורן סודאי",
+		"cvoted": "5998",
+		"cpercentage": "18.44",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "נהריה",
+		"cname": "ז'קי סבג",
+		"cvoted": "7274",
+		"cpercentage": "22.36",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "נהריה",
+		"cname": "רונן מרלי",
+		"cvoted": "19254",
+		"cpercentage": "59.20",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נהריה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "59.20",
+		"cwin": "רונן מרלי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נהריה סה",
+		"cname": "",
+		"cvoted": "32526",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "נווה מדבר",
+		"cname": "אברהים אל הואשלה",
+		"cvoted": "1707",
+		"cpercentage": "57.42",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "נווה מדבר",
+		"cname": "סלאמה עדיסאן",
+		"cvoted": "1202",
+		"cpercentage": "40.43",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "נווה מדבר",
+		"cname": "סלמאן אבו חמיד",
+		"cvoted": "64",
+		"cpercentage": "2.15",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נווה מדבר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "57.42",
+		"cwin": "אברהים אל הואשלה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נווה מדבר סה",
+		"cname": "",
+		"cvoted": "2973",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "נחל שורק",
+		"cname": "אליהו אסקוזידו",
+		"cvoted": "מועמד יחיד במועצה אזורית ",
+		"cpercentage": "",
+		"cwin": "אליהו אסקוזידו"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נחל שורק מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נחל שורק סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "נחף",
+		"cname": "וליד עבד אל גני",
+		"cvoted": "428",
+		"cpercentage": "5.75",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "נחף",
+		"cname": "מוחמד זורי",
+		"cvoted": "1402",
+		"cpercentage": "18.82",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "נחף",
+		"cname": "מוחמד מסרי",
+		"cvoted": "856",
+		"cpercentage": "11.49",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "נחף",
+		"cname": "מוחמד סעיד",
+		"cvoted": "1096",
+		"cpercentage": "14.72",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "נחף",
+		"cname": "עבד אל באסט קיס",
+		"cvoted": "1544",
+		"cpercentage": "20.73",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "נחף",
+		"cname": "עומר אסמאעיל",
+		"cvoted": "1073",
+		"cpercentage": "14.41",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "נחף",
+		"cname": "פריד אסמאעיל",
+		"cvoted": "1049",
+		"cpercentage": "14.08",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נחף מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "20.73",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נחף סה",
+		"cname": "",
+		"cvoted": "7448",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "נס ציונה",
+		"cname": "שחר רובין",
+		"cvoted": "8702",
+		"cpercentage": "40.34",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "נס ציונה",
+		"cname": "שמואל בוקסר",
+		"cvoted": "12871",
+		"cpercentage": "59.66",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נס ציונה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "59.66",
+		"cwin": "שמואל בוקסר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נס ציונה סה",
+		"cname": "",
+		"cvoted": "21573",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "נצרת",
+		"cname": "וליד עפיפי",
+		"cvoted": "17699",
+		"cpercentage": "37.50",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "נצרת",
+		"cname": "עלי סלאם",
+		"cvoted": "29498",
+		"cpercentage": "62.50",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נצרת מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "62.50",
+		"cwin": "עלי סלאם"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נצרת סה",
+		"cname": "",
+		"cvoted": "47197",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "נצרת עילית",
+		"cname": "רונן פלוט-קולות בעד",
+		"cvoted": "23266",
+		"cpercentage": "98.62",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "נצרת עילית",
+		"cname": "רונן פלוט-קולות נגד",
+		"cvoted": "325",
+		"cpercentage": "1.38",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נצרת עילית מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "98.62",
+		"cwin": "רונן פלוט-קולות בעד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נצרת עילית סה",
+		"cname": "",
+		"cvoted": "23591",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "נשר",
+		"cname": "אברהם מכלוף בינמו",
+		"cvoted": "902",
+		"cpercentage": "8.40",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "נשר",
+		"cname": "יחיאל אדרי",
+		"cvoted": "1628",
+		"cpercentage": "15.17",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "נשר",
+		"cname": "רועי לוי",
+		"cvoted": "6913",
+		"cpercentage": "64.41",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "נשר",
+		"cname": "שלומי זנו",
+		"cvoted": "1289",
+		"cpercentage": "12.01",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נשר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "64.41",
+		"cwin": "רועי לוי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נשר סה",
+		"cname": "",
+		"cvoted": "10732",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "נתיבות",
+		"cname": "יחיאל זוהר",
+		"cvoted": "11310",
+		"cpercentage": "63.97",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "נתיבות",
+		"cname": "משה בנימין פרץ",
+		"cvoted": "6369",
+		"cpercentage": "36.03",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נתיבות מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "63.97",
+		"cwin": "יחיאל זוהר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נתיבות סה",
+		"cname": "",
+		"cvoted": "17679",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "נתניה",
+		"cname": "הרצל קרן",
+		"cvoted": "4941",
+		"cpercentage": "5.93",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "נתניה",
+		"cname": "יונתן שטבון",
+		"cvoted": "22235",
+		"cpercentage": "26.71",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "נתניה",
+		"cname": "אפרים אליעזר בולמש",
+		"cvoted": "6472",
+		"cpercentage": "7.77",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "נתניה",
+		"cname": "מרים פיירברג איכר",
+		"cvoted": "40364",
+		"cpercentage": "48.48",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "נתניה",
+		"cname": "עופר ארנשטיין",
+		"cvoted": "9246",
+		"cpercentage": "11.11",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נתניה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "48.48",
+		"cwin": "מרים פיירברג איכר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "נתניה סה",
+		"cname": "",
+		"cvoted": "83258",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "סאג'ור",
+		"cname": "ג'בר חמוד",
+		"cvoted": "1311",
+		"cpercentage": "45.98",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "סאג'ור",
+		"cname": "חאתם גאנם",
+		"cvoted": "1301",
+		"cpercentage": "45.63",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "סאג'ור",
+		"cname": "סאמח אבראהים",
+		"cvoted": "239",
+		"cpercentage": "8.38",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "סאג'ור מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "45.98",
+		"cwin": "ג'בר חמוד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "סאג'ור סה",
+		"cname": "",
+		"cvoted": "2851",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "סביון",
+		"cname": "דפנה שפיגלמן דמבינסקי",
+		"cvoted": "756",
+		"cpercentage": "34.21",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "סביון",
+		"cname": "מרדכי מוטי לנדאו",
+		"cvoted": "1454",
+		"cpercentage": "65.79",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "סביון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "65.79",
+		"cwin": "מרדכי מוטי לנדאו"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "סביון סה",
+		"cname": "",
+		"cvoted": "2210",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "סח'נין",
+		"cname": "מאזן גנאים",
+		"cvoted": "9328",
+		"cpercentage": "47.48",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "סח'נין",
+		"cname": "ספואת אבו ריא",
+		"cvoted": "10320",
+		"cpercentage": "52.52",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "סח'נין מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "52.52",
+		"cwin": "ספואת אבו ריא"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "סח'נין סה",
+		"cname": "",
+		"cvoted": "19648",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ע'ג'ר",
+		"cname": "אחמד פתאלי",
+		"cvoted": "רשימה יחידה ומועמד יחיד",
+		"cpercentage": "",
+		"cwin": "אחמד פתאלי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ע'ג'ר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ע'ג'ר סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "עומר",
+		"cname": "סימה כחלון",
+		"cvoted": "2361",
+		"cpercentage": "49.10",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "עומר",
+		"cname": "פיני פנחס מאיר בדש",
+		"cvoted": "2448",
+		"cpercentage": "50.90",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עומר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "50.90",
+		"cwin": "פיני פנחס מאיר בדש"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עומר סה",
+		"cname": "",
+		"cvoted": "4809",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עיילבון",
+		"cname": "ג'יריס מטר",
+		"cvoted": "1497",
+		"cpercentage": "39.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עיילבון",
+		"cname": "סמיר אבו זייד",
+		"cvoted": "2310",
+		"cpercentage": "60.68",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עיילבון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "60.68",
+		"cwin": "סמיר אבו זייד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עיילבון סה",
+		"cname": "",
+		"cvoted": "3807",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עילוט",
+		"cname": "אבראהים אבו זוייד",
+		"cvoted": "805",
+		"cpercentage": "18.53",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עילוט",
+		"cname": "אבראהים אבו ראס",
+		"cvoted": "1686",
+		"cpercentage": "38.81",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עילוט",
+		"cname": "חסן עלי",
+		"cvoted": "1235",
+		"cpercentage": "28.43",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עילוט",
+		"cname": "סאלח עבוד",
+		"cvoted": "618",
+		"cpercentage": "14.23",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עילוט מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "38.81",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עילוט סה",
+		"cname": "",
+		"cvoted": "4344",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עין מאהל",
+		"cname": "אחמד חביבאללה",
+		"cvoted": "4348",
+		"cpercentage": "51.38",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עין מאהל",
+		"cname": "נואף אבו ליל",
+		"cvoted": "4115",
+		"cpercentage": "48.62",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עין מאהל מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "51.38",
+		"cwin": "אחמד חביבאללה"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עין מאהל סה",
+		"cname": "",
+		"cvoted": "8463",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עין קנייא",
+		"cname": "ואיל מוגרבי",
+		"cvoted": "20",
+		"cpercentage": "95.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עין קנייא",
+		"cname": "סולימאן דעבוס",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עין קנייא",
+		"cname": "סמירה רדא עמראן",
+		"cvoted": "1",
+		"cpercentage": "4.76",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עין קנייא",
+		"cname": "רמזי עזאם",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עין קנייא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "95.24",
+		"cwin": "ואיל מוגרבי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עין קנייא סה",
+		"cname": "",
+		"cvoted": "21",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עכו",
+		"cname": "שמעון לנקרי-קולות בעד",
+		"cvoted": "18419",
+		"cpercentage": "84.94",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עכו",
+		"cname": "שמעון לנקרי-קולות נגד",
+		"cvoted": "3265",
+		"cpercentage": "15.06",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עכו מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "84.94",
+		"cwin": "שמעון לנקרי-קולות בעד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עכו סה",
+		"cname": "",
+		"cvoted": "21684",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "עמנואל",
+		"cname": "אליהו גפני",
+		"cvoted": "1379",
+		"cpercentage": "93.94",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "עמנואל",
+		"cname": "משה רועי חגיאל",
+		"cvoted": "89",
+		"cpercentage": "6.06",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עמנואל מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "93.94",
+		"cwin": "אליהו גפני"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עמנואל סה",
+		"cname": "",
+		"cvoted": "1468",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עמק הירדן",
+		"cname": "עידן גרינבאום",
+		"cvoted": "5137",
+		"cpercentage": "83.28",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עמק הירדן",
+		"cname": "תומר ארביטי",
+		"cvoted": "1031",
+		"cpercentage": "16.72",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עמק הירדן מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "83.28",
+		"cwin": "עידן גרינבאום"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עמק הירדן סה",
+		"cname": "",
+		"cvoted": "6168",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עמק המעיינות",
+		"cname": "גיל פשחור",
+		"cvoted": "1553",
+		"cpercentage": "25.22",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עמק המעיינות",
+		"cname": "יורם קרין",
+		"cvoted": "4604",
+		"cpercentage": "74.78",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עמק המעיינות מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "74.78",
+		"cwin": "יורם קרין"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עמק המעיינות סה",
+		"cname": "",
+		"cvoted": "6157",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "עמק חפר",
+		"cname": "גלית שאול",
+		"cvoted": "10763",
+		"cpercentage": "55.17",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "עמק חפר",
+		"cname": "עפרה ברק",
+		"cvoted": "2558",
+		"cpercentage": "13.11",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "עמק חפר",
+		"cname": "רני רן אידן",
+		"cvoted": "6188",
+		"cpercentage": "31.72",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עמק חפר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "55.17",
+		"cwin": "גלית שאול"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עמק חפר סה",
+		"cname": "",
+		"cvoted": "19509",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עמק יזרעאל",
+		"cname": "אייל בצר",
+		"cvoted": "10055",
+		"cpercentage": "54.36",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עמק יזרעאל",
+		"cname": "לימור ג'קי רגב",
+		"cvoted": "8442",
+		"cpercentage": "45.64",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עמק יזרעאל מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "54.36",
+		"cwin": "אייל בצר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עמק יזרעאל סה",
+		"cname": "",
+		"cvoted": "18497",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "עספיא",
+		"cname": "בהיג מנסור",
+		"cvoted": "3330",
+		"cpercentage": "43.59",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "עספיא",
+		"cname": "וגיה כיוף",
+		"cvoted": "1944",
+		"cpercentage": "25.45",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "עספיא",
+		"cname": "כמאל מלאק",
+		"cvoted": "2366",
+		"cpercentage": "30.97",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עספיא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "43.59",
+		"cwin": "בהיג מנסור"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עספיא סה",
+		"cname": "",
+		"cvoted": "7640",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עפולה",
+		"cname": "אבי אברהם אלקבץ",
+		"cvoted": "11959",
+		"cpercentage": "48.71",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עפולה",
+		"cname": "אלי אילן וקנין",
+		"cvoted": "1513",
+		"cpercentage": "6.16",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עפולה",
+		"cname": "יצחק מירון",
+		"cvoted": "11081",
+		"cpercentage": "45.13",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עפולה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "48.71",
+		"cwin": "אבי אברהם אלקבץ"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עפולה סה",
+		"cname": "",
+		"cvoted": "24553",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עראבה",
+		"cname": "אחמד נסאר",
+		"cvoted": "4811",
+		"cpercentage": "35.16",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עראבה",
+		"cname": "מוניב בדארנה",
+		"cvoted": "848",
+		"cpercentage": "6.20",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עראבה",
+		"cname": "עאדל עאסלה",
+		"cvoted": "1812",
+		"cpercentage": "13.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "עראבה",
+		"cname": "עומר ואכד",
+		"cvoted": "6211",
+		"cpercentage": "45.40",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עראבה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "45.40",
+		"cwin": "עומר ואכד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "עראבה סה",
+		"cname": "",
+		"cvoted": "13682",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "ערבות הירדן",
+		"cname": "דוד אלחיאני",
+		"cvoted": "1514",
+		"cpercentage": "59.35",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "ערבות הירדן",
+		"cname": "יוגב קרסנטי",
+		"cvoted": "822",
+		"cpercentage": "32.22",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "ערבות הירדן",
+		"cname": "יונתן שוב",
+		"cvoted": "215",
+		"cpercentage": "8.43",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ערבות הירדן מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "59.35",
+		"cwin": "דוד אלחיאני"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ערבות הירדן סה",
+		"cname": "",
+		"cvoted": "2551",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "ערד",
+		"cname": "אורון דב קלימן",
+		"cvoted": "482",
+		"cpercentage": "3.47",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "ערד",
+		"cname": "משה אדרי",
+		"cvoted": "4647",
+		"cpercentage": "33.49",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "ערד",
+		"cname": "ניסן בן חמו",
+		"cvoted": "8748",
+		"cpercentage": "63.04",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ערד מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "63.04",
+		"cwin": "ניסן בן חמו"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ערד סה",
+		"cname": "",
+		"cvoted": "13877",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "ערערה",
+		"cname": "אבראהים גזמאווי",
+		"cvoted": "1307",
+		"cpercentage": "12.56",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "ערערה",
+		"cname": "איוב דעאיפה",
+		"cvoted": "751",
+		"cpercentage": "7.22",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "ערערה",
+		"cname": "מודר יונס",
+		"cvoted": "3259",
+		"cpercentage": "31.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "ערערה",
+		"cname": "נאדר יונס",
+		"cvoted": "837",
+		"cpercentage": "8.04",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "ערערה",
+		"cname": "סאמי מלחם",
+		"cvoted": "1062",
+		"cpercentage": "10.21",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "ערערה",
+		"cname": "עבד אל אלאה מסארוה",
+		"cvoted": "1310",
+		"cpercentage": "12.59",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "ערערה",
+		"cname": "עוני מרזוק",
+		"cvoted": "1879",
+		"cpercentage": "18.06",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ערערה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "31.32",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ערערה סה",
+		"cname": "",
+		"cvoted": "10405",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "ערערה-בנגב",
+		"cname": "נאיף אבו עראר",
+		"cvoted": "3558",
+		"cpercentage": "60.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "ערערה-בנגב",
+		"cname": "נמר אבו עראר",
+		"cvoted": "2348",
+		"cpercentage": "39.76",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ערערה-בנגב מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "60.24",
+		"cwin": "נאיף אבו עראר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ערערה-בנגב סה",
+		"cname": "",
+		"cvoted": "5906",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "פוריידיס",
+		"cname": "אחמד בריה",
+		"cvoted": "3589",
+		"cpercentage": "44.72",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "פוריידיס",
+		"cname": "אימן מרעי",
+		"cvoted": "4437",
+		"cpercentage": "55.28",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "פוריידיס מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "55.28",
+		"cwin": "אימן מרעי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "פוריידיס סה",
+		"cname": "",
+		"cvoted": "8026",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "פסוטה",
+		"cname": "אדגאר דכואר",
+		"cvoted": "1610",
+		"cpercentage": "75.27",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "פסוטה",
+		"cname": "ג'יריס ג'יריס",
+		"cvoted": "14",
+		"cpercentage": "0.65",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "פסוטה",
+		"cname": "ויקטור אשקר",
+		"cvoted": "515",
+		"cpercentage": "24.08",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "פסוטה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "75.27",
+		"cwin": "אדגאר דכואר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "פסוטה סה",
+		"cname": "",
+		"cvoted": "2139",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "פקיעין (בוקייעה)",
+		"cname": "איאד עבאס",
+		"cvoted": "170",
+		"cpercentage": "4.50",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "פקיעין (בוקייעה)",
+		"cname": "דאהר ח'יר",
+		"cvoted": "813",
+		"cpercentage": "21.53",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "פקיעין (בוקייעה)",
+		"cname": "סויד סוויד",
+		"cvoted": "1652",
+		"cpercentage": "43.74",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "פקיעין (בוקייעה)",
+		"cname": "ראמז אחמד",
+		"cvoted": "1142",
+		"cpercentage": "30.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "פקיעין (בוקייעה) מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "43.74",
+		"cwin": "סויד סוויד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "פקיעין (בוקייעה) סה",
+		"cname": "",
+		"cvoted": "3777",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "פרדס חנה-כרכור",
+		"cname": "אייל שלמה כגן",
+		"cvoted": "2898",
+		"cpercentage": "15.36",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "פרדס חנה-כרכור",
+		"cname": "אלדד בר כוכבא",
+		"cvoted": "6958",
+		"cpercentage": "36.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "פרדס חנה-כרכור",
+		"cname": "הגר פרי יגור",
+		"cvoted": "6049",
+		"cpercentage": "32.07",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "פרדס חנה-כרכור",
+		"cname": "יואב קעטבי",
+		"cvoted": "1614",
+		"cpercentage": "8.56",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "פרדס חנה-כרכור",
+		"cname": "יוני חכימי",
+		"cvoted": "1146",
+		"cpercentage": "6.08",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "פרדס חנה-כרכור",
+		"cname": "יצחק לב",
+		"cvoted": "197",
+		"cpercentage": "1.04",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "פרדס חנה-כרכור מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "36.89",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "פרדס חנה-כרכור סה",
+		"cname": "",
+		"cvoted": "18862",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "פרדסיה",
+		"cname": "טל גורקי",
+		"cvoted": "2072",
+		"cpercentage": "59.59",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "פרדסיה",
+		"cname": "תומר יפת",
+		"cvoted": "1405",
+		"cpercentage": "40.41",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "פרדסיה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "59.59",
+		"cwin": "טל גורקי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "פרדסיה סה",
+		"cname": "",
+		"cvoted": "3477",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "פתח תקווה",
+		"cname": "אורי דרשן הכהן",
+		"cvoted": "1122",
+		"cpercentage": "1.07",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "פתח תקווה",
+		"cname": "איציק ברוורמן",
+		"cvoted": "37876",
+		"cpercentage": "36.19",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "פתח תקווה",
+		"cname": "איתי שונשיין",
+		"cvoted": "11421",
+		"cpercentage": "10.90",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "פתח תקווה",
+		"cname": "גנאדי בורשבסקי",
+		"cvoted": "7489",
+		"cpercentage": "7.15",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "פתח תקווה",
+		"cname": "רמי גרינברג",
+		"cvoted": "46763",
+		"cpercentage": "44.68",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "פתח תקווה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "44.68",
+		"cwin": "רמי גרינברג"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "פתח תקווה סה",
+		"cname": "",
+		"cvoted": "101954",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "צפת",
+		"cname": "אילן שלומי יוסי שוחט",
+		"cvoted": "3705",
+		"cpercentage": "23.07",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "צפת",
+		"cname": "אליעזר לזר",
+		"cvoted": "1988",
+		"cpercentage": "12.38",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "צפת",
+		"cname": "ישי מימון",
+		"cvoted": "416",
+		"cpercentage": "2.59",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "צפת",
+		"cname": "נחמן אברהם גלבך",
+		"cvoted": "4010",
+		"cpercentage": "24.97",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "צפת",
+		"cname": "שוקי יהושע אוחנה",
+		"cvoted": "5941",
+		"cpercentage": "36.99",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "צפת מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "36.99",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "צפת סה",
+		"cname": "",
+		"cvoted": "16060",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "קדומים",
+		"cname": "חננאל דורני",
+		"cvoted": "1371",
+		"cpercentage": "69.49",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "קדומים",
+		"cname": "רואי מסורי",
+		"cvoted": "602",
+		"cpercentage": "30.51",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קדומים מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "69.49",
+		"cwin": "חננאל דורני"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קדומים סה",
+		"cname": "",
+		"cvoted": "1973",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "קדימה צורן",
+		"cname": "יצחק גולברי",
+		"cvoted": "4006",
+		"cpercentage": "37.76",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "קדימה צורן",
+		"cname": "קרן גרין",
+		"cvoted": "3789",
+		"cpercentage": "35.71",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "קדימה צורן",
+		"cname": "שביט מס",
+		"cvoted": "1638",
+		"cpercentage": "15.44",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "קדימה צורן",
+		"cname": "תומר יעקב",
+		"cvoted": "1177",
+		"cpercentage": "11.09",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קדימה צורן מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "37.76",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קדימה צורן סה",
+		"cname": "",
+		"cvoted": "10610",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "קלנסווה",
+		"cname": "אברהים קאדי",
+		"cvoted": "1993",
+		"cpercentage": "20.54",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "קלנסווה",
+		"cname": "אחמד נאטור",
+		"cvoted": "471",
+		"cpercentage": "4.85",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "קלנסווה",
+		"cname": "אחמד קשקוש",
+		"cvoted": "2445",
+		"cpercentage": "25.20",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "קלנסווה",
+		"cname": "חאלד סלאמה",
+		"cvoted": "1085",
+		"cpercentage": "11.18",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "קלנסווה",
+		"cname": "כוסאי תכרורי",
+		"cvoted": "878",
+		"cpercentage": "9.05",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "קלנסווה",
+		"cname": "עבד אל באסט סלאמה",
+		"cvoted": "2831",
+		"cpercentage": "29.18",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קלנסווה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "29.18",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קלנסווה סה",
+		"cname": "",
+		"cvoted": "9703",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "קצרין",
+		"cname": "דימי דמיטרי אפרצב",
+		"cvoted": "1899",
+		"cpercentage": "50.49",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "קצרין",
+		"cname": "ויקי ויקטוריה בדריאן",
+		"cvoted": "1862",
+		"cpercentage": "49.51",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קצרין מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "50.49",
+		"cwin": "דימי דמיטרי אפרצב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קצרין סה",
+		"cname": "",
+		"cvoted": "3761",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "קרית אונו",
+		"cname": "גיל נתן מיכלס",
+		"cvoted": "3483",
+		"cpercentage": "20.16",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "קרית אונו",
+		"cname": "ישראל גל",
+		"cvoted": "9427",
+		"cpercentage": "54.56",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "קרית אונו",
+		"cname": "ליאת ארבל",
+		"cvoted": "3532",
+		"cpercentage": "20.44",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "קרית אונו",
+		"cname": "שי דבורה",
+		"cvoted": "837",
+		"cpercentage": "4.84",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית אונו מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "54.56",
+		"cwin": "ישראל גל"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית אונו סה",
+		"cname": "",
+		"cvoted": "17279",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "קרית ארבע",
+		"cname": "אליהו שלום ליבמן",
+		"cvoted": "1864",
+		"cpercentage": "52.58",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "קרית ארבע",
+		"cname": "אליעזר יהושע רודריג",
+		"cvoted": "274",
+		"cpercentage": "7.73",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "קרית ארבע",
+		"cname": "יצחק מלאכי לוינגר",
+		"cvoted": "1407",
+		"cpercentage": "39.69",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית ארבע מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "52.58",
+		"cwin": "אליהו שלום ליבמן"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית ארבע סה",
+		"cname": "",
+		"cvoted": "3545",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית אתא",
+		"cname": "בעד-יעקב פרץ",
+		"cvoted": "16143",
+		"cpercentage": "77.96",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית אתא",
+		"cname": "נגד-יעקב פרץ",
+		"cvoted": "4565",
+		"cpercentage": "22.04",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית אתא מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "77.96",
+		"cwin": "בעד-יעקב פרץ"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית אתא סה",
+		"cname": "",
+		"cvoted": "20708",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית ביאליק",
+		"cname": "אלי דוקורסקי-קולות בעד",
+		"cvoted": "15570",
+		"cpercentage": "94.54",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית ביאליק",
+		"cname": "אלי דוקורסקי-קולות נגד",
+		"cvoted": "899",
+		"cpercentage": "5.46",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית ביאליק מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "94.54",
+		"cwin": "אלי דוקורסקי-קולות בעד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית ביאליק סה",
+		"cname": "",
+		"cvoted": "16469",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "קרית גת",
+		"cname": "אבירם דהרי",
+		"cvoted": "14412",
+		"cpercentage": "50.34",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "קרית גת",
+		"cname": "אילן חזן",
+		"cvoted": "1267",
+		"cpercentage": "4.43",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "קרית גת",
+		"cname": "יעקב יקיר שינדלר",
+		"cvoted": "8657",
+		"cpercentage": "30.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "קרית גת",
+		"cname": "שי זולדן",
+		"cvoted": "4295",
+		"cpercentage": "15.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית גת מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "50.34",
+		"cwin": "אבירם דהרי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית גת סה",
+		"cname": "",
+		"cvoted": "28631",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית טבעון",
+		"cname": "אברהם מסאס",
+		"cvoted": "102",
+		"cpercentage": "1.19",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית טבעון",
+		"cname": "אורי יוסף דרוקר",
+		"cvoted": "266",
+		"cpercentage": "3.11",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית טבעון",
+		"cname": "יפתח גלעדי",
+		"cvoted": "813",
+		"cpercentage": "9.51",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית טבעון",
+		"cname": "עידו גרינבלום",
+		"cvoted": "2189",
+		"cpercentage": "25.60",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית טבעון",
+		"cname": "רות קלנר עקרון",
+		"cvoted": "2655",
+		"cpercentage": "31.05",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית טבעון",
+		"cname": "שמואל שמחון",
+		"cvoted": "1921",
+		"cpercentage": "22.46",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית טבעון",
+		"cname": "שרון אסתר רופא אופיר",
+		"cvoted": "606",
+		"cpercentage": "7.09",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית טבעון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "31.05",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית טבעון סה",
+		"cname": "",
+		"cvoted": "8552",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית ים",
+		"cname": "דוד אבן צור",
+		"cvoted": "13567",
+		"cpercentage": "82.34",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית ים",
+		"cname": "שלומי טל",
+		"cvoted": "2910",
+		"cpercentage": "17.66",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית ים מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "82.34",
+		"cwin": "דוד אבן צור"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית ים סה",
+		"cname": "",
+		"cvoted": "16477",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "ירושלים",
+		"cauthority": "קרית יערים",
+		"cname": "אברהם אהרן רוזנטל",
+		"cvoted": "רשימה יחידה ומועמד יחיד",
+		"cpercentage": "",
+		"cwin": "אברהם אהרן רוזנטל"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית יערים מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית יערים סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית מוצקין",
+		"cname": "אבי רוטמן",
+		"cvoted": "1234",
+		"cpercentage": "6.26",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית מוצקין",
+		"cname": "חיים צורי",
+		"cvoted": "11640",
+		"cpercentage": "59.09",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "קרית מוצקין",
+		"cname": "צבי ציקי אבישר",
+		"cvoted": "6825",
+		"cpercentage": "34.65",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית מוצקין מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "59.09",
+		"cwin": "חיים צורי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית מוצקין סה",
+		"cname": "",
+		"cvoted": "19699",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "קרית מלאכי",
+		"cname": "אליהו ללו זהר",
+		"cvoted": "7024",
+		"cpercentage": "61.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "קרית מלאכי",
+		"cname": "חיים ויצמן",
+		"cvoted": "4326",
+		"cpercentage": "38.11",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית מלאכי מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "61.89",
+		"cwin": "אליהו ללו זהר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית מלאכי סה",
+		"cname": "",
+		"cvoted": "11350",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "קרית עקרון",
+		"cname": "בצלאל דוד",
+		"cvoted": "1515",
+		"cpercentage": "26.84",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "קרית עקרון",
+		"cname": "דוד אבו",
+		"cvoted": "1306",
+		"cpercentage": "23.14",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "קרית עקרון",
+		"cname": "חובב צברי",
+		"cvoted": "2823",
+		"cpercentage": "50.02",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית עקרון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "50.02",
+		"cwin": "חובב צברי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית עקרון סה",
+		"cname": "",
+		"cvoted": "5644",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "קרית שמונה",
+		"cname": "אביבה זריהן ויצמן",
+		"cvoted": "1273",
+		"cpercentage": "10.77",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "קרית שמונה",
+		"cname": "אביחי שטרן",
+		"cvoted": "4491",
+		"cpercentage": "38.01",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "קרית שמונה",
+		"cname": "יגאל בוזגלו",
+		"cvoted": "310",
+		"cpercentage": "2.62",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "קרית שמונה",
+		"cname": "ניסים מלכה",
+		"cvoted": "3335",
+		"cpercentage": "28.22",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "קרית שמונה",
+		"cname": "רחמים יורם מלול",
+		"cvoted": "2407",
+		"cpercentage": "20.37",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית שמונה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "38.01",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרית שמונה סה",
+		"cname": "",
+		"cvoted": "11816",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "קרני שומרון",
+		"cname": "יגאל חי להב",
+		"cvoted": "2770",
+		"cpercentage": "75.91",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "קרני שומרון",
+		"cname": "רות שפיצר",
+		"cvoted": "879",
+		"cpercentage": "24.09",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרני שומרון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "75.91",
+		"cwin": "יגאל חי להב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "קרני שומרון סה",
+		"cname": "",
+		"cvoted": "3649",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ראמה",
+		"cname": "שאוקי לטיף-קולות בעד",
+		"cvoted": "3687",
+		"cpercentage": "87.62",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ראמה",
+		"cname": "שאוקי לטיף-קולות נגד",
+		"cvoted": "521",
+		"cpercentage": "12.38",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ראמה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "87.62",
+		"cwin": "שאוקי לטיף-קולות בעד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ראמה סה",
+		"cname": "",
+		"cvoted": "4208",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ראש העין",
+		"cname": "בני בנגה בית אור",
+		"cvoted": "4177",
+		"cpercentage": "15.29",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ראש העין",
+		"cname": "חנוך עוז",
+		"cvoted": "3675",
+		"cpercentage": "13.45",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ראש העין",
+		"cname": "יוכבד יוכי פנחסי אדיב",
+		"cvoted": "3069",
+		"cpercentage": "11.23",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ראש העין",
+		"cname": "ישי אדוארד",
+		"cvoted": "2819",
+		"cpercentage": "10.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ראש העין",
+		"cname": "רז שגיא",
+		"cvoted": "6000",
+		"cpercentage": "21.96",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ראש העין",
+		"cname": "שלום בן-משה",
+		"cvoted": "7584",
+		"cpercentage": "27.76",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ראש העין מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "27.76",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ראש העין סה",
+		"cname": "",
+		"cvoted": "27324",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ראש פינה",
+		"cname": "אהרן ברנזון",
+		"cvoted": "515",
+		"cpercentage": "28.98",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ראש פינה",
+		"cname": "מוטי חטיאל",
+		"cvoted": "611",
+		"cpercentage": "34.38",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ראש פינה",
+		"cname": "ניר קבלו",
+		"cvoted": "389",
+		"cpercentage": "21.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ראש פינה",
+		"cname": "עמיר ילוז",
+		"cvoted": "262",
+		"cpercentage": "14.74",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ראש פינה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "34.38",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ראש פינה סה",
+		"cname": "",
+		"cvoted": "1777",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ראשון לציון",
+		"cname": "אסף דעבול",
+		"cvoted": "4835",
+		"cpercentage": "4.64",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ראשון לציון",
+		"cname": "דב צור",
+		"cvoted": "33194",
+		"cpercentage": "31.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ראשון לציון",
+		"cname": "דורון אוזן",
+		"cvoted": "15977",
+		"cpercentage": "15.35",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ראשון לציון",
+		"cname": "ליאל אבן-זהר בן דוד",
+		"cvoted": "20128",
+		"cpercentage": "19.34",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ראשון לציון",
+		"cname": "מרדכי עגמי",
+		"cvoted": "7298",
+		"cpercentage": "7.01",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "ראשון לציון",
+		"cname": "רז קינסטליך",
+		"cvoted": "22663",
+		"cpercentage": "21.77",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ראשון לציון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "31.89",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ראשון לציון סה",
+		"cname": "",
+		"cvoted": "104095",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "רהט",
+		"cname": "טלאל אלקרינאוי",
+		"cvoted": "9439",
+		"cpercentage": "33.76",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "רהט",
+		"cname": "מאגד אבו בלאל",
+		"cvoted": "701",
+		"cpercentage": "2.51",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "רהט",
+		"cname": "סופיאן אל קרינאוי",
+		"cvoted": "116",
+		"cpercentage": "0.41",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "רהט",
+		"cname": "פאיז אבו צהבאן",
+		"cvoted": "11862",
+		"cpercentage": "42.42",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "רהט",
+		"cname": "פייצל אלהזייל",
+		"cvoted": "5842",
+		"cpercentage": "20.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רהט מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "42.42",
+		"cwin": "פאיז אבו צהבאן"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רהט סה",
+		"cname": "",
+		"cvoted": "27960",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "רחובות",
+		"cname": "רחמים מלול בעד",
+		"cvoted": "35262",
+		"cpercentage": "63.16",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "רחובות",
+		"cname": "רחמים מלול נגד",
+		"cvoted": "20572",
+		"cpercentage": "36.84",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רחובות מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "63.16",
+		"cwin": "רחמים מלול בעד"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רחובות סה",
+		"cname": "",
+		"cvoted": "55834",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ריינה",
+		"cname": "ג'מיל בסול",
+		"cvoted": "3856",
+		"cpercentage": "40.96",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ריינה",
+		"cname": "ח'אלד טאטור",
+		"cvoted": "2493",
+		"cpercentage": "26.48",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ריינה",
+		"cname": "ח'אלד טאטור",
+		"cvoted": "1775",
+		"cpercentage": "18.85",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "ריינה",
+		"cname": "תיסיר בסול",
+		"cvoted": "1335",
+		"cpercentage": "14.18",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ריינה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "40.96",
+		"cwin": "ג'מיל בסול"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "ריינה סה",
+		"cname": "",
+		"cvoted": "9459",
+		"cpercentage": "100.47",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "חיפה",
+		"cauthority": "רכסים",
+		"cname": "דן כהן",
+		"cvoted": "רשימה יחידה ומועמד יחיד",
+		"cpercentage": "",
+		"cwin": "דן כהן"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רכסים מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רכסים סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "רמלה",
+		"cname": "מיכאל וידל",
+		"cvoted": "19638",
+		"cpercentage": "61.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "רמלה",
+		"cname": "עדי צור שטרנברג",
+		"cvoted": "12428",
+		"cpercentage": "38.76",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רמלה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "61.24",
+		"cwin": "מיכאל וידל"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רמלה סה",
+		"cname": "",
+		"cvoted": "32066",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "רמת גן",
+		"cname": "אביהוא בניה בן משה",
+		"cvoted": "7246",
+		"cpercentage": "11.81",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "רמת גן",
+		"cname": "בנימין גטר",
+		"cvoted": "146",
+		"cpercentage": "0.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "רמת גן",
+		"cname": "גלעד שריר",
+		"cvoted": "6764",
+		"cpercentage": "11.02",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "רמת גן",
+		"cname": "ישראל ראול זינגר",
+		"cvoted": "16767",
+		"cpercentage": "27.33",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "רמת גן",
+		"cname": "כרמל שאמה הכהן",
+		"cvoted": "17220",
+		"cpercentage": "28.07",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "רמת גן",
+		"cname": "ליעד אילני",
+		"cvoted": "13209",
+		"cpercentage": "21.53",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רמת גן מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "28.07",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רמת גן סה",
+		"cname": "",
+		"cvoted": "61352",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "רמת השרון",
+		"cname": "אבירם גרובר",
+		"cvoted": "8860",
+		"cpercentage": "39.97",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "רמת השרון",
+		"cname": "אילן כהן",
+		"cvoted": "1146",
+		"cpercentage": "5.17",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "רמת השרון",
+		"cname": "טל נפתלי עזגד",
+		"cvoted": "357",
+		"cpercentage": "1.61",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "רמת השרון",
+		"cname": "רון גרשון בלקין",
+		"cvoted": "7026",
+		"cpercentage": "31.70",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "רמת השרון",
+		"cname": "רמי בר לב",
+		"cvoted": "4775",
+		"cpercentage": "21.54",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רמת השרון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "39.97",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רמת השרון סה",
+		"cname": "",
+		"cvoted": "22164",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "רמת ישי",
+		"cname": "יהונתן נמרוד הירשפלד",
+		"cvoted": "1012",
+		"cpercentage": "25.63",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "רמת ישי",
+		"cname": "יצחק ניר חבקין",
+		"cvoted": "695",
+		"cpercentage": "17.60",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "רמת ישי",
+		"cname": "ליבי אלקריף",
+		"cvoted": "595",
+		"cpercentage": "15.07",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "רמת ישי",
+		"cname": "עופר בן אליעזר",
+		"cvoted": "1647",
+		"cpercentage": "41.71",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רמת ישי מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "41.71",
+		"cwin": "עופר בן אליעזר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רמת ישי סה",
+		"cname": "",
+		"cvoted": "3949",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "רמת נגב",
+		"cname": "ערן דורון",
+		"cvoted": "מועמד יחיד במועצה אזורית ",
+		"cpercentage": "",
+		"cwin": "ערן דורון"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רמת נגב מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רמת נגב סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "רעננה",
+		"cname": "איתן גינזבורג",
+		"cvoted": "10435",
+		"cpercentage": "27.77",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "רעננה",
+		"cname": "חיים ברוידא",
+		"cvoted": "12475",
+		"cpercentage": "33.20",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "רעננה",
+		"cname": "יקי יעקב ודמני",
+		"cvoted": "4939",
+		"cpercentage": "13.15",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "רעננה",
+		"cname": "ניר יהודה קריסטל",
+		"cvoted": "6753",
+		"cpercentage": "17.97",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "רעננה",
+		"cname": "רונית וינטראוב",
+		"cvoted": "2375",
+		"cpercentage": "6.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "רעננה",
+		"cname": "רחלי בן ארי סקת",
+		"cvoted": "595",
+		"cpercentage": "1.58",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רעננה מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "33.20",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "רעננה סה",
+		"cname": "",
+		"cvoted": "37572",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שבלי-אום אל ג'נם",
+		"cname": "חאתם שיבלי",
+		"cvoted": "1082",
+		"cpercentage": "31.31",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שבלי-אום אל ג'נם",
+		"cname": "מוניר שיבלי",
+		"cvoted": "1257",
+		"cpercentage": "36.37",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שבלי-אום אל ג'נם",
+		"cname": "נעים שיבלי",
+		"cvoted": "1005",
+		"cpercentage": "29.08",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שבלי-אום אל ג'נם",
+		"cname": "עדנאן סעאידה",
+		"cvoted": "112",
+		"cpercentage": "3.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שבלי-אום אל ג'נם מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "36.37",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שבלי-אום אל ג'נם סה",
+		"cname": "",
+		"cvoted": "3456",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "שגב-שלום",
+		"cname": "סמיר בן סעיד",
+		"cvoted": "1713",
+		"cpercentage": "41.06",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "שגב-שלום",
+		"cname": "עאמר אבו מעמר",
+		"cvoted": "2459",
+		"cpercentage": "58.94",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שגב-שלום מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "58.94",
+		"cwin": "עאמר אבו מעמר"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שגב-שלום סה",
+		"cname": "",
+		"cvoted": "4172",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "שדות דן",
+		"cname": "דוד יפרח",
+		"cvoted": " מועמד יחיד במועצה אזורית ",
+		"cpercentage": "",
+		"cwin": "דוד יפרח"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שדות דן מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שדות דן סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "שדות נגב",
+		"cname": "תמיר עידאן",
+		"cvoted": " מועמד יחיד במועצה אזורית ",
+		"cpercentage": "",
+		"cwin": "תמיר עידאן"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שדות נגב מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שדות נגב סה",
+		"cname": "",
+		"cvoted": "0",
+		"cpercentage": "0.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "שדרות",
+		"cname": "אלון דוידי",
+		"cvoted": "8734",
+		"cpercentage": "65.89",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "שדרות",
+		"cname": "אמיר פינטו",
+		"cvoted": "4521",
+		"cpercentage": "34.11",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שדרות מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "65.89",
+		"cwin": "אלון דוידי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שדרות סה",
+		"cname": "",
+		"cvoted": "13255",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "שוהם",
+		"cname": "איתן אלכסנדר פטיגרו",
+		"cvoted": "7217",
+		"cpercentage": "63.73",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "שוהם",
+		"cname": "גלעד רבינוביץ",
+		"cvoted": "2478",
+		"cpercentage": "21.88",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "שוהם",
+		"cname": "הילה דוד",
+		"cvoted": "225",
+		"cpercentage": "1.99",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "שוהם",
+		"cname": "יוסי לוי",
+		"cvoted": "1151",
+		"cpercentage": "10.16",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "מרכז",
+		"cauthority": "שוהם",
+		"cname": "יעקב עמנואל",
+		"cvoted": "254",
+		"cpercentage": "2.24",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שוהם מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "63.73",
+		"cwin": "איתן אלכסנדר פטיגרו"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שוהם סה",
+		"cname": "",
+		"cvoted": "11325",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "שומרון",
+		"cname": "יוסי דגן",
+		"cvoted": "13130",
+		"cpercentage": "80.80",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "יהודה ושומרון",
+		"cauthority": "שומרון",
+		"cname": "פול גולובנבסקי",
+		"cvoted": "3120",
+		"cpercentage": "19.20",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שומרון מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "80.80",
+		"cwin": "יוסי דגן"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שומרון סה",
+		"cname": "",
+		"cvoted": "16250",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שלומי",
+		"cname": "גבריאל-גבי נעמן",
+		"cvoted": "1644",
+		"cpercentage": "44.91",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שלומי",
+		"cname": "דוד דר",
+		"cvoted": "1326",
+		"cpercentage": "36.22",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שלומי",
+		"cname": "יששכר בובליל",
+		"cvoted": "228",
+		"cpercentage": "6.23",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שלומי",
+		"cname": "שיפרה ווקנין",
+		"cvoted": "463",
+		"cpercentage": "12.65",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שלומי מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "44.91",
+		"cwin": "גבריאל-גבי נעמן"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שלומי סה",
+		"cname": "",
+		"cvoted": "3661",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שעב",
+		"cname": "חוסיין עזאיזה",
+		"cvoted": "768",
+		"cpercentage": "17.28",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שעב",
+		"cname": "מחמוד בוקאעי",
+		"cvoted": "1772",
+		"cpercentage": "39.87",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שעב",
+		"cname": "נאסר אל נאסר",
+		"cvoted": "394",
+		"cpercentage": "8.87",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שעב",
+		"cname": "סמיר ח'טיב",
+		"cvoted": "287",
+		"cpercentage": "6.46",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שעב",
+		"cname": "סעיד עבד אל רחמאן",
+		"cvoted": "191",
+		"cpercentage": "4.30",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שעב",
+		"cname": "עלי ח'ואלד",
+		"cvoted": "1032",
+		"cpercentage": "23.22",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שעב מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "39.87",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שעב סה",
+		"cname": "",
+		"cvoted": "4444",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "שער הנגב",
+		"cname": "אופיר ליבשטין",
+		"cvoted": "2723",
+		"cpercentage": "68.31",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "שער הנגב",
+		"cname": "נירה שפק",
+		"cvoted": "1263",
+		"cpercentage": "31.69",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שער הנגב מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "68.31",
+		"cwin": "אופיר ליבשטין"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שער הנגב סה",
+		"cname": "",
+		"cvoted": "3986",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "שפיר",
+		"cname": "אברהם ויינברגר",
+		"cvoted": "851",
+		"cpercentage": "14.23",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "שפיר",
+		"cname": "אדיר בניהו נעמן",
+		"cvoted": "2808",
+		"cpercentage": "46.94",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "שפיר",
+		"cname": "אשר אברג'ל",
+		"cvoted": "1965",
+		"cpercentage": "32.85",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "שפיר",
+		"cname": "תמר רחמים",
+		"cvoted": "358",
+		"cpercentage": "5.98",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שפיר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "46.94",
+		"cwin": "אדיר בניהו נעמן"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שפיר סה",
+		"cname": "",
+		"cvoted": "5982",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שפרעם",
+		"cname": "אמין ענבתאוי",
+		"cvoted": "3971",
+		"cpercentage": "17.84",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שפרעם",
+		"cname": "יחיא ספורי",
+		"cvoted": "312",
+		"cpercentage": "1.40",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שפרעם",
+		"cname": "נאהד ח'אזם",
+		"cvoted": "8105",
+		"cpercentage": "36.42",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "צפון",
+		"cauthority": "שפרעם",
+		"cname": "עורסאן יאסין",
+		"cvoted": "9868",
+		"cpercentage": "44.34",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שפרעם מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "44.34",
+		"cwin": "עורסאן יאסין"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "שפרעם סה",
+		"cname": "",
+		"cvoted": "22256",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "תל אביב-יפו",
+		"cname": "אסף הראל",
+		"cvoted": "23604",
+		"cpercentage": "12.14",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "תל אביב-יפו",
+		"cname": "אסף זמיר",
+		"cvoted": "66403",
+		"cpercentage": "34.15",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "תל אביב-יפו",
+		"cname": "נתן אלנתן",
+		"cvoted": "13328",
+		"cpercentage": "6.85",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "תל-אביב",
+		"cauthority": "תל אביב-יפו",
+		"cname": "רון חולדאי",
+		"cvoted": "91116",
+		"cpercentage": "46.86",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "תל אביב-יפו מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "46.86",
+		"cwin": "רון חולדאי"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "תל אביב-יפו סה",
+		"cname": "",
+		"cvoted": "194451",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "תל שבע",
+		"cname": "מוסה אלאעסם",
+		"cvoted": "2534",
+		"cpercentage": "33.98",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "תל שבע",
+		"cname": "מוסלח אבו עסא",
+		"cvoted": "1987",
+		"cpercentage": "26.64",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "תל שבע",
+		"cname": "עומאר אבו רקייק",
+		"cvoted": "2937",
+		"cpercentage": "39.38",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "תל שבע מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "39.38",
+		"cwin": "סבב ב"
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "תל שבע סה",
+		"cname": "",
+		"cvoted": "7458",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "תמר",
+		"cname": "אורי פרי גל",
+		"cvoted": "308",
+		"cpercentage": "44.32",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "דרום",
+		"cauthority": "תמר",
+		"cname": "דב ליטבינוף",
+		"cvoted": "387",
+		"cpercentage": "55.68",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "תמר מקסימום",
+		"cname": "",
+		"cvoted": "",
+		"cpercentage": "55.68",
+		"cwin": ""
+	},
+	{
+		"cdistrict": "",
+		"cauthority": "תמר סה",
+		"cname": "",
+		"cvoted": "695",
+		"cpercentage": "100.00",
+		"cwin": ""
+	},
+]
