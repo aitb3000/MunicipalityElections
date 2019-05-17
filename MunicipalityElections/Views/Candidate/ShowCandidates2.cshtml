@@ -1,0 +1,43 @@
+﻿@model PagedList.IPagedList<MunicipalityElections.Models.Candidate>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "ShowCandidates";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<p>
+
+</p>
+@using (Html.BeginForm("ShowCandidates2", "Candidate", FormMethod.Get))
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+
+<table id="table" class="table table-bordered table-responsive table-hover">
+    <tr>
+        <th>@Html.ActionLink("District", "ShowCandidates", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })</th>
+        <th>@Html.ActionLink("Authority", "ShowCandidates", new { sortOrder = ViewBag.DateSortParm, currentFilter = ViewBag.CurrentFilter })</th>
+        <th>Candidate Name </th>
+        <th>Vote</th>
+        <th>Percentage</th>
+    </tr>
+
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.cdistrict</td>
+            <td>@d.cauthority</td>
+            <td>@d.cname</td>
+            <td>@d.cvoted</td>
+            <td>@d.cpercentage%</td>
+        </tr>
+    }
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("ShowCandidates2",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
