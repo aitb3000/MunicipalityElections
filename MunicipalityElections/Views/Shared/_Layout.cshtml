@@ -4,8 +4,15 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title</title>
-    @Styles.Render("~/Content/css")
-    @Scripts.Render("~/bundles/modernizr")
+
+    @Styles.Render("~/Content/css", "~/Content/Site.css")
+
+    @Scripts.Render(
+    "~/bundles/modernizr",
+    "~/Scripts/jquery",
+    "~/Scripts/bootstrap",
+    "~/Scripts/Chart.min.js",
+    "~/Scripts/Chart")
 
 </head>
 <body>
@@ -23,7 +30,8 @@
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
                     <li>@Html.ActionLink("City Votes", "Main", "City")</li>
-                    <li>@Html.ActionLink("Vote For Yourself", "ShowCandidates", "Candidate")</li>
+                    <li>@Html.ActionLink("Candidates V1", "ShowCandidates", "Candidate")</li>
+                    <li>@Html.ActionLink("Candidates V2", "ShowCandidates2", "Candidate")</li>
                     <li>@Html.ActionLink("About", "About", "Home")</li>
                     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
                 </ul>

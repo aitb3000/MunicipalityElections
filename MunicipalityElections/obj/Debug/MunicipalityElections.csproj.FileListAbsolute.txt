@@ -77,3 +77,8 @@ C:\Users\Dinner\Git\MunicipalityElections\MunicipalityElections\obj\Debug\Munici
 C:\Users\Dinner\Git\MunicipalityElections\MunicipalityElections\obj\Debug\MunicipalityElections.csproj.CopyComplete
 C:\Users\Dinner\Git\MunicipalityElections\MunicipalityElections\obj\Debug\MunicipalityElections.dll
 C:\Users\Dinner\Git\MunicipalityElections\MunicipalityElections\obj\Debug\MunicipalityElections.pdb
+C:\Users\Dinner\Git\MunicipalityElections\MunicipalityElections\obj\Debug\MunicipalityElections.csprojAssemblyReference.cache
+C:\Users\Dinner\Git\MunicipalityElections\MunicipalityElections\bin\PagedList.dll
+C:\Users\Dinner\Git\MunicipalityElections\MunicipalityElections\bin\PagedList.Mvc.dll
+C:\Users\Dinner\Git\MunicipalityElections\MunicipalityElections\bin\PagedList.xml
+C:\Users\Dinner\Git\MunicipalityElections\MunicipalityElections\bin\PagedList.Mvc.xml

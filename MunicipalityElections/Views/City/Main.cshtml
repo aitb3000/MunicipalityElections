@@ -11,7 +11,8 @@
     <div class="form-group">
         @Html.Label("Choose City")
         @Html.DropDownListFor(m=> m.City.cauthority, new SelectList(Model.CityList,"cauthority","cauthority"),"Choose City", new { @class = "form-control" })
-     </div>
+        @Html.ValidationMessageFor(m => m.City) 
+    </div>
      <div class="form-group">
          @Html.Label("Year")
          @Html.TextBoxFor( m => m.Year,DateTime.Now.Year.ToString() , new { @class = "form-control" })

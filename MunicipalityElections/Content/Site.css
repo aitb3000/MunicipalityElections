@@ -22,3 +22,31 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.field-validation-error {
+    color: red;
+}
+
+.input-validation-error {
+    border: 2px solid red;
+}
+
+
+#table tr:nth-child(2n+1) {
+    background: gray;
+}
+
+#table td, #table th {
+    font-size: 12x;
+    border: 1px solid #4D365B;
+    padding: 3px 7px 2px 7px;
+    text-align: center;
+}
+
+#table th {
+    font-size: 14px;
+    padding-top: px;
+    padding-bottom: 4px;
+    background-color: darkgray;
+    color: black;
+}
